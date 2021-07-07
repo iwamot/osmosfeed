@@ -1,6 +1,7 @@
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://iwamot.github.io/osmosfeed/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+#  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+#  - href: https://css-tricks.com/feed/
+#  - href: https://www.smashingmagazine.com/feed/
+#  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://a.noare.net/rss?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs
