@@ -2,5 +2,7 @@ cacheUrl: https://iwamot.github.io/osmosfeed/cache.json
 sources:
   - href: https://a.noare.net/rss?keyword=AWS&omit=fmdgs
   - href: https://a.noare.net/rss?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs
+  - href: https://a.noare.net/rss?keyword=%22King+Crimson%22&omit=fgs
+  - href: https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs
 siteTitle: "iwamot/osmosfeed"
 cacheMaxDays: 30
