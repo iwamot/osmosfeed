@@ -1,6 +1,103 @@
 {
   "sources": [
     {
+      "title": "「AWS」＠リリースチェッカー",
+      "feedUrl": "https://a.noare.net/rss?keyword=AWS&omit=fmdgs",
+      "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
+      "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/4799327178?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-04-23",
+          "link": "https://www.amazon.co.jp/dp/4799327178?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-07T12:43:25.814Z",
+          "wordCount": 930,
+          "title": "［和書］いまこそ知りたいDX戦略 自社のコアを再定義し、デジタル化する"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/429610909X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-08、予約可",
+          "link": "https://www.amazon.co.jp/dp/429610909X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-07T12:43:25.551Z",
+          "wordCount": 613,
+          "title": "［和書］ハンズオンで分かりやすく学べる Google Cloud実践活用術 データ分析・システム基盤編 Google監修"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B0936PSMXT?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-06-17",
+          "link": "https://www.amazon.co.jp/dp/B0936PSMXT?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-07T12:43:25.352Z",
+          "wordCount": 884,
+          "title": "［和書］要点整理から攻略する『AWS認定 データベース-専門知識』 (Compass Booksシリーズ)[Kindle版]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/4798064289?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-04-29",
+          "link": "https://www.amazon.co.jp/dp/4798064289?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-07T12:43:25.125Z",
+          "wordCount": 939,
+          "title": "［和書］IoTデバイス×Webアプリでホームネットワーク AWS クラウドサービス開発テクニック"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/4863543565?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-21、予約可",
+          "link": "https://www.amazon.co.jp/dp/4863543565?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-07T12:43:25.000Z",
+          "wordCount": 501,
+          "title": "［和書］AWS Deep Racer"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B097D6B8QY?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-06-25",
+          "link": "https://www.amazon.co.jp/dp/B097D6B8QY?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-07T12:43:24.858Z",
+          "wordCount": 574,
+          "title": "［和書］for Startups Tech Book Vol.1　スモールチームで開発するためのプラクティス (技術の泉シリーズ（NextPublishing）)[Kindle版]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B095BKTKS2?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-05-20",
+          "link": "https://www.amazon.co.jp/dp/B095BKTKS2?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-07T12:43:24.774Z",
+          "wordCount": 745,
+          "title": "［和書］徹底攻略 Microsoft Azure Fundamentals教科書［AZ-900］対応 徹底攻略シリーズ[Kindle版]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B093X346TM?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-04-29",
+          "link": "https://www.amazon.co.jp/dp/B093X346TM?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-07T12:43:24.616Z",
+          "wordCount": 595,
+          "title": "［和書］ズバリ！！的中問題集 SAA-C02 AWS Amazon アマゾン ソリューションアーキテクト アソシエイト認定試験 Solution Architect Associate 日本語版[Kindle版]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09371FW5Y?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-06-14",
+          "link": "https://www.amazon.co.jp/dp/B09371FW5Y?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-07T12:43:24.391Z",
+          "wordCount": 684,
+          "title": "［和書］動かして学ぶ！Pythonサーバレスアプリ開発入門[Kindle版]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B098L7S8VR?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-02",
+          "link": "https://www.amazon.co.jp/dp/B098L7S8VR?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-07T12:43:24.165Z",
+          "wordCount": 570,
+          "title": "［和書］システムエンジニアがほんの少しだけAWSの世界を覗いてみるための本[Kindle版]"
+        }
+      ]
+    },
+    {
       "title": "「インフラエンジニア」＠リリースチェッカー",
       "feedUrl": "https://a.noare.net/rss?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",

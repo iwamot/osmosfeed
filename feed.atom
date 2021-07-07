@@ -1,11 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
-    <title>osmos::feed</title>
-    <updated>2021-07-07T12:10:33.976Z</updated>
+    <title>iwamot/osmosfeed</title>
+    <updated>2021-07-07T12:43:25.837Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［和書］いまこそ知りたいDX戦略 自社のコアを再定義し、デジタル化する]]></title>
+        <id>https://www.amazon.co.jp/dp/4799327178?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4799327178?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-07T12:43:25.814Z</updated>
+        <summary type="html"><![CDATA[2021-04-23]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］ハンズオンで分かりやすく学べる Google Cloud実践活用術 データ分析・システム基盤編 Google監修]]></title>
+        <id>https://www.amazon.co.jp/dp/429610909X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/429610909X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-07T12:43:25.551Z</updated>
+        <summary type="html"><![CDATA[2021-07-08、予約可]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］要点整理から攻略する『AWS認定 データベース-専門知識』 (Compass Booksシリーズ)[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B0936PSMXT?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B0936PSMXT?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-07T12:43:25.352Z</updated>
+        <summary type="html"><![CDATA[2021-06-17]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］IoTデバイス×Webアプリでホームネットワーク AWS クラウドサービス開発テクニック]]></title>
+        <id>https://www.amazon.co.jp/dp/4798064289?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4798064289?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-07T12:43:25.125Z</updated>
+        <summary type="html"><![CDATA[2021-04-29]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］AWS Deep Racer]]></title>
+        <id>https://www.amazon.co.jp/dp/4863543565?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4863543565?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-07T12:43:25.000Z</updated>
+        <summary type="html"><![CDATA[2021-09-21、予約可]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］for Startups Tech Book Vol.1　スモールチームで開発するためのプラクティス (技術の泉シリーズ（NextPublishing）)[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B097D6B8QY?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B097D6B8QY?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-07T12:43:24.858Z</updated>
+        <summary type="html"><![CDATA[2021-06-25]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］徹底攻略 Microsoft Azure Fundamentals教科書［AZ-900］対応 徹底攻略シリーズ[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B095BKTKS2?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B095BKTKS2?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-07T12:43:24.774Z</updated>
+        <summary type="html"><![CDATA[2021-05-20]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］ズバリ！！的中問題集 SAA-C02 AWS Amazon アマゾン ソリューションアーキテクト アソシエイト認定試験 Solution Architect Associate 日本語版[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B093X346TM?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B093X346TM?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-07T12:43:24.616Z</updated>
+        <summary type="html"><![CDATA[2021-04-29]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］動かして学ぶ！Pythonサーバレスアプリ開発入門[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B09371FW5Y?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B09371FW5Y?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-07T12:43:24.391Z</updated>
+        <summary type="html"><![CDATA[2021-06-14]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］システムエンジニアがほんの少しだけAWSの世界を覗いてみるための本[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B098L7S8VR?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B098L7S8VR?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-07T12:43:24.165Z</updated>
+        <summary type="html"><![CDATA[2021-07-02]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［和書］ITインフラ・サーバー プロフェッショナル設計ガイド]]></title>
         <id>https://www.amazon.co.jp/dp/4798062677?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
