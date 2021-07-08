@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/429501141X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-05-20",
+          "link": "https://www.amazon.co.jp/dp/429501141X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-08T00:32:23.860Z",
+          "wordCount": 814,
+          "title": "［和書］(模擬問題付き)徹底攻略 Microsoft Azure Fundamentals教科書[AZ-900]対応"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4799327178?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-04-23",
@@ -102,6 +111,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/4297122898?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-21、予約可",
+          "link": "https://www.amazon.co.jp/dp/4297122898?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-08T00:32:23.441Z",
+          "wordCount": 449,
+          "title": "［和書］図解即戦力 インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/4798062677?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
