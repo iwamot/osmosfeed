@@ -6,6 +6,51 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4315524026?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-06-30",
+          "link": "https://www.amazon.co.jp/dp/4315524026?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-09T00:36:03.348Z",
+          "wordCount": 846,
+          "title": "［和書］Newton大図鑑シリーズ 天気と気象大図鑑"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/479805545X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-06-18",
+          "link": "https://www.amazon.co.jp/dp/479805545X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-09T00:36:03.040Z",
+          "wordCount": 695,
+          "title": "［和書］Django Webアプリ開発実装ハンドブック"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/4844379623?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-06-25",
+          "link": "https://www.amazon.co.jp/dp/4844379623?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-09T00:36:02.877Z",
+          "wordCount": 583,
+          "title": "［和書］for Startups Tech Book Vol.1　スモールチームで開発するためのプラクティス (技術の泉シリーズ（NextPublishing）)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B095B3MZT9?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-06-17",
+          "link": "https://www.amazon.co.jp/dp/B095B3MZT9?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-09T00:36:02.766Z",
+          "wordCount": 881,
+          "title": "［和書］ソフトウェアデザイン 2021年7月号"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B098PTQ9F8?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-08",
+          "link": "https://www.amazon.co.jp/dp/B098PTQ9F8?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-09T00:36:02.532Z",
+          "wordCount": 560,
+          "title": "［和書］ハンズオンで分かりやすく学べる Google Cloud実践活用術　データ分析・システム基盤編[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/429501141X?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-05-20",
@@ -485,6 +530,24 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-18、予約可",
+          "link": "https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-09T00:36:03.497Z",
+          "wordCount": 895,
+          "title": "［音楽］ARTISAN (30th Anniversary Edition)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B08JY565JM?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2020-12-16",
+          "link": "https://www.amazon.co.jp/dp/B08JY565JM?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-09T00:36:03.210Z",
+          "wordCount": 795,
+          "title": "［音楽］クリスマス・イブ (2020Version) 【完全生産限定盤】 (ホワイト・ヴァイナル仕様/7インチシングルレコード) [Analog]"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B08NTHM4CJ?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
