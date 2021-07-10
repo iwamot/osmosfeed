@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B0991JYSFT?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-08",
+          "link": "https://www.amazon.co.jp/dp/B0991JYSFT?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-10T00:33:06.554Z",
+          "wordCount": 826,
+          "title": "［和書］アマゾンを食う、地味すぎるユニコーン企業: アマゾンの目の上のたんこぶ 世界一の社会人の漫画[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4315524026?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-06-30",
@@ -530,6 +539,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-18、予約可",
+          "link": "https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-10T00:33:08.566Z",
+          "wordCount": 874,
+          "title": "［音楽］【Amazon.co.jp限定】ARTISAN (30th Anniversary Edition) (メガジャケ付)"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,

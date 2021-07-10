@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-07-09T00:36:03.536Z</updated>
+    <updated>2021-07-10T00:33:08.601Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［音楽］【Amazon.co.jp限定】ARTISAN (30th Anniversary Edition) (メガジャケ付)]]></title>
+        <id>https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-10T00:33:08.566Z</updated>
+        <summary type="html"><![CDATA[2021-08-18、予約可]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］アマゾンを食う、地味すぎるユニコーン企業: アマゾンの目の上のたんこぶ 世界一の社会人の漫画[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B0991JYSFT?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B0991JYSFT?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-10T00:33:06.554Z</updated>
+        <summary type="html"><![CDATA[2021-07-08]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［音楽］ARTISAN (30th Anniversary Edition)]]></title>
         <id>https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
