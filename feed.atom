@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-07-11T00:37:34.884Z</updated>
+    <updated>2021-07-14T00:31:34.065Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［和書］モーニング 2021年33号 [2021年7月15日発売] [雑誌][Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B09965859V?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B09965859V?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-14T00:31:34.027Z</updated>
+        <summary type="html"><![CDATA[2021-07-15、予約可]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［音楽］濃縮キング・クリムゾン~ベスト・オブ・キング・クリムゾン1969-2003(SHM-CD Ver.) 通常盤]]></title>
         <id>https://www.amazon.co.jp/dp/B0937XHN1Z?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
