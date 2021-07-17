@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4636974425?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-05-28",
+          "link": "https://www.amazon.co.jp/dp/4636974425?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-17T00:33:59.174Z",
+          "wordCount": 768,
+          "title": "［和書］学ぶ力を強くする~ガリ勉しないで成績をあげる脳の使い方"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B094V6FQXB?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-05-11",
@@ -566,6 +575,24 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-27",
+          "link": "https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-17T00:33:58.849Z",
+          "wordCount": 435,
+          "title": "［音楽］I want to hold your hand [国内アナログ盤 / 7インチ] (HYDRA-023) [Analog]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/kindle-dbs/hz/signup?tag=chintara-22",
+          "author": null,
+          "description": "200万冊以上が読み放題。お好きな端末で利用可能。",
+          "link": "https://www.amazon.co.jp/kindle-dbs/hz/signup?tag=chintara-22",
+          "publishedOn": "2021-07-17T00:33:58.290Z",
+          "wordCount": 6,
+          "title": "［参考］Kindle Unlimited無料体験"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B09965859V?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
