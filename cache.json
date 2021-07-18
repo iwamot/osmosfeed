@@ -6,6 +6,24 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4863543247?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-12-20、予約可",
+          "link": "https://www.amazon.co.jp/dp/4863543247?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-18T00:35:22.300Z",
+          "wordCount": 507,
+          "title": "［和書］基礎から学ぶ Terraform"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/486594303X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-06、予約可",
+          "link": "https://www.amazon.co.jp/dp/486594303X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-18T00:35:22.034Z",
+          "wordCount": 559,
+          "title": "［和書］AWS認定ソリューションアーキテクト-アソシエイト問題集"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4636974425?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-05-28",
@@ -289,6 +307,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%22King+Crimson%22&omit=fgs",
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B08THZ24M3?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-05-19",
+          "link": "https://www.amazon.co.jp/dp/B08THZ24M3?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-18T00:35:22.585Z",
+          "wordCount": 1898,
+          "title": "［音楽］アイランズ (MQA-CDVer.)"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B0937XHN1Z?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
