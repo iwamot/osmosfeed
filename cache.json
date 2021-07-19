@@ -308,6 +308,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B08THZCW5X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-05-19",
+          "link": "https://www.amazon.co.jp/dp/B08THZCW5X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-19T00:34:40.593Z",
+          "wordCount": 908,
+          "title": "［音楽］ポセイドンのめざめ (MQA-CDVer.)"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B08THZ24M3?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-05-19",
