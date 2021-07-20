@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-07-19T00:34:40.614Z</updated>
+    <updated>2021-07-20T00:37:24.278Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［DVD］クリムゾン・キングの宮殿~40周年記念エディション DVDオーディオ+K2HD HQCD]]></title>
+        <id>https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-20T00:37:24.247Z</updated>
+        <summary type="html"><![CDATA[2013-06-19]]></summary>
+        <author>
+            <name>「"King Crimson"」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［音楽］ポセイドンのめざめ (MQA-CDVer.)]]></title>
         <id>https://www.amazon.co.jp/dp/B08THZCW5X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
