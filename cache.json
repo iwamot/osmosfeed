@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4798166596?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-15、予約可",
+          "link": "https://www.amazon.co.jp/dp/4798166596?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-21T00:35:45.484Z",
+          "wordCount": 576,
+          "title": "［和書］New Relic実践入門 監視からオブザーバビリティへの変革"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4863543247?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-12-20、予約可",
@@ -620,6 +629,24 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B096G254CL?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-18、予約可",
+          "link": "https://www.amazon.co.jp/dp/B096G254CL?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-21T00:35:48.157Z",
+          "wordCount": 787,
+          "title": "［音楽］ARTISAN (30th Anniversary Edition) (アナログ盤) [Analog]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B099TRJ9Q2?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-16、予約可",
+          "link": "https://www.amazon.co.jp/dp/B099TRJ9Q2?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-21T00:35:47.693Z",
+          "wordCount": 391,
+          "title": "［和書］Rhythm & Drums magazine (リズム アンド ドラムマガジン) 2021年 10月号"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
