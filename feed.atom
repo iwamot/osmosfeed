@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-07-21T00:35:48.183Z</updated>
+    <updated>2021-07-22T00:35:22.840Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［和書］要点整理から攻略する『AWS認定 データベース-専門知識』 (Compass Booksシリーズ)]]></title>
+        <id>https://www.amazon.co.jp/dp/4839975078?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4839975078?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-22T00:35:22.817Z</updated>
+        <summary type="html"><![CDATA[2021-06-17]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］ソフトウェア品質を高める開発者テスト アジャイル時代の実践的・効率的なテストのやり方]]></title>
+        <id>https://www.amazon.co.jp/dp/4798165034?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4798165034?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-07-22T00:35:22.651Z</updated>
+        <summary type="html"><![CDATA[2021-03-17]]></summary>
+        <author>
+            <name>「インフラエンジニア」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［音楽］ARTISAN (30th Anniversary Edition) (アナログ盤) [Analog]]]></title>
         <id>https://www.amazon.co.jp/dp/B096G254CL?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>

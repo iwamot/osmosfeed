@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4839975078?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-06-17",
+          "link": "https://www.amazon.co.jp/dp/4839975078?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-22T00:35:22.817Z",
+          "wordCount": 646,
+          "title": "［和書］要点整理から攻略する『AWS認定 データベース-専門知識』 (Compass Booksシリーズ)"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4798166596?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-09-15、予約可",
@@ -210,6 +219,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/4798165034?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-03-17",
+          "link": "https://www.amazon.co.jp/dp/4798165034?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-22T00:35:22.651Z",
+          "wordCount": 661,
+          "title": "［和書］ソフトウェア品質を高める開発者テスト アジャイル時代の実践的・効率的なテストのやり方"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/4297122898?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
