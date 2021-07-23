@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B0971NZZT4?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-16",
+          "link": "https://www.amazon.co.jp/dp/B0971NZZT4?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-23T00:35:42.753Z",
+          "wordCount": 863,
+          "title": "［和書］ソフトウェアデザイン 2021年8月号"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4839975078?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-06-17",
