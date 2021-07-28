@@ -344,6 +344,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-22、予約可",
+          "link": "https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-28T00:35:56.615Z",
+          "wordCount": 460,
+          "title": "［音楽］エレメンツ 2021 ツアー・ボックス"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2013-06-19",
