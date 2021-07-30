@@ -238,6 +238,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4798163430?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-02-10",
+          "link": "https://www.amazon.co.jp/dp/4798163430?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-30T00:35:21.950Z",
+          "wordCount": 770,
+          "title": "［和書］AWSではじめるインフラ構築入門 安全で堅牢な本番環境のつくり方"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-07-30、予約可",
@@ -692,6 +701,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-21",
+          "link": "https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-07-30T00:35:21.680Z",
+          "wordCount": 590,
+          "title": "［音楽］僕のスピな☆ムン太郎 (完全生産限定盤) (特典なし)"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B096G254CL?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
