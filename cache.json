@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B0991JYSFT?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-08",
+          "link": "https://www.amazon.co.jp/dp/B0991JYSFT?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-10T00:38:13.053Z",
+          "wordCount": 801,
+          "title": "［和書］アマゾンを食う、地味すぎるユニコーン企業: アマゾンの目の上のたんこぶ 世界一の社会人の漫画[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09C3C81TF?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-08-06",
@@ -549,24 +558,6 @@
           "publishedOn": "2021-07-18T00:35:22.585Z",
           "wordCount": 1898,
           "title": "［音楽］アイランズ (MQA-CDVer.)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B0937XHN1Z?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-06-23",
-          "link": "https://www.amazon.co.jp/dp/B0937XHN1Z?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-11T00:37:34.859Z",
-          "wordCount": 680,
-          "title": "［音楽］濃縮キング・クリムゾン~ベスト・オブ・キング・クリムゾン1969-2003(SHM-CD Ver.) 通常盤"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2018-11-24",
-          "link": "https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-11T00:37:34.740Z",
-          "wordCount": 720,
-          "title": "［和書］KING CRIMSON'S MUSIC,HISTORY & CONNECTION　キング・クリムゾンと変革の時代　A Guide Book for Progressive Rock (角川学芸出版単行本)[Kindle版]"
         }
       ]
     },
@@ -575,6 +566,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-18、予約可",
+          "link": "https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-10T00:38:13.776Z",
+          "wordCount": 777,
+          "title": "［音楽］ARTISAN (30th Anniversary Edition)"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B08NTP7R8V?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -772,15 +772,6 @@
           "publishedOn": "2021-07-14T00:31:34.027Z",
           "wordCount": 928,
           "title": "［和書］モーニング 2021年33号 [2021年7月15日発売] [雑誌][Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B08NTFMG6R?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2020-12-11",
-          "link": "https://www.amazon.co.jp/dp/B08NTFMG6R?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-11T00:37:34.457Z",
-          "wordCount": 725,
-          "title": "［音楽］【Amazon.co.jp限定】RIDE ON TIME (特典:メガジャケ付)"
         }
       ]
     }
