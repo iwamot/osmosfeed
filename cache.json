@@ -290,6 +290,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2018-11-24",
+          "link": "https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-11T00:39:05.332Z",
+          "wordCount": 755,
+          "title": "［和書］KING CRIMSON'S MUSIC,HISTORY & CONNECTION　キング・クリムゾンと変革の時代　A Guide Book for Progressive Rock (角川学芸出版単行本)[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B00CICW6IW?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2013-06-19",
@@ -566,6 +575,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/4866471581?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2022-03-11、予約可",
+          "link": "https://www.amazon.co.jp/dp/4866471581?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-11T00:39:06.562Z",
+          "wordCount": 524,
+          "title": "［和書］ジェフ・ポーカロ その人生と音楽(仮) It's About Time: Jeff Porcaro - The Man and His Music"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
