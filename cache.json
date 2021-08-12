@@ -6,6 +6,24 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4798064394?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-31",
+          "link": "https://www.amazon.co.jp/dp/4798064394?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-12T00:35:10.511Z",
+          "wordCount": 685,
+          "title": "［和書］Python 実践データ加工/可視化 100本ノック"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09C7H6YHR?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-27、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09C7H6YHR?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-12T00:35:10.295Z",
+          "wordCount": 566,
+          "title": "［和書］AWSではじめる クラウド開発入門[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B0991JYSFT?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-07-08",
