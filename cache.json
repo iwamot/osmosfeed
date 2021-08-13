@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4839977607?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-27、予約可",
+          "link": "https://www.amazon.co.jp/dp/4839977607?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-13T00:36:07.984Z",
+          "wordCount": 510,
+          "title": "［和書］AWSではじめる クラウド開発入門"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4798064394?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-07-31",
@@ -799,15 +808,6 @@
           "publishedOn": "2021-07-17T00:33:58.290Z",
           "wordCount": 6,
           "title": "［参考］Kindle Unlimited無料体験"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09965859V?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-15、予約可",
-          "link": "https://www.amazon.co.jp/dp/B09965859V?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-14T00:31:34.027Z",
-          "wordCount": 928,
-          "title": "［和書］モーニング 2021年33号 [2021年7月15日発売] [雑誌][Kindle版]"
         }
       ]
     }
