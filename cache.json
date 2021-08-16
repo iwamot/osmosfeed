@@ -184,15 +184,6 @@
           "publishedOn": "2021-07-18T00:35:22.034Z",
           "wordCount": 559,
           "title": "［和書］AWS認定ソリューションアーキテクト-アソシエイト問題集"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4636974425?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-05-28",
-          "link": "https://www.amazon.co.jp/dp/4636974425?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-17T00:33:59.174Z",
-          "wordCount": 768,
-          "title": "［和書］学ぶ力を強くする~ガリ勉しないで成績をあげる脳の使い方"
         }
       ]
     },
@@ -666,6 +657,24 @@
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-18、予約可",
+          "link": "https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-16T00:34:47.984Z",
+          "wordCount": 757,
+          "title": "［音楽］【Amazon.co.jp限定】ARTISAN (30th Anniversary Edition) (メガジャケ付)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B08JY565JM?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2020-12-16",
+          "link": "https://www.amazon.co.jp/dp/B08JY565JM?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-16T00:34:47.623Z",
+          "wordCount": 802,
+          "title": "［音楽］クリスマス・イブ (2020Version) 【完全生産限定盤】 (ホワイト・ヴァイナル仕様/7インチシングルレコード) [Analog]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09965859V?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-07-15",
@@ -862,24 +871,6 @@
           "publishedOn": "2021-07-21T00:35:47.693Z",
           "wordCount": 391,
           "title": "［和書］Rhythm & Drums magazine (リズム アンド ドラムマガジン) 2021年 10月号"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-27",
-          "link": "https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-17T00:33:58.849Z",
-          "wordCount": 435,
-          "title": "［音楽］I want to hold your hand [国内アナログ盤 / 7インチ] (HYDRA-023) [Analog]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/kindle-dbs/hz/signup?tag=chintara-22",
-          "author": null,
-          "description": "200万冊以上が読み放題。お好きな端末で利用可能。",
-          "link": "https://www.amazon.co.jp/kindle-dbs/hz/signup?tag=chintara-22",
-          "publishedOn": "2021-07-17T00:33:58.290Z",
-          "wordCount": 6,
-          "title": "［参考］Kindle Unlimited無料体験"
         }
       ]
     }
