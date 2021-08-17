@@ -166,24 +166,6 @@
           "publishedOn": "2021-07-21T00:35:45.484Z",
           "wordCount": 576,
           "title": "［和書］New Relic実践入門 監視からオブザーバビリティへの変革"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4863543247?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-12-20、予約可",
-          "link": "https://www.amazon.co.jp/dp/4863543247?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-18T00:35:22.300Z",
-          "wordCount": 507,
-          "title": "［和書］基礎から学ぶ Terraform"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/486594303X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-06、予約可",
-          "link": "https://www.amazon.co.jp/dp/486594303X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-18T00:35:22.034Z",
-          "wordCount": 559,
-          "title": "［和書］AWS認定ソリューションアーキテクト-アソシエイト問題集"
         }
       ]
     },
@@ -639,15 +621,6 @@
           "publishedOn": "2021-07-19T00:34:40.593Z",
           "wordCount": 908,
           "title": "［音楽］ポセイドンのめざめ (MQA-CDVer.)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B08THZ24M3?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-05-19",
-          "link": "https://www.amazon.co.jp/dp/B08THZ24M3?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-18T00:35:22.585Z",
-          "wordCount": 1898,
-          "title": "［音楽］アイランズ (MQA-CDVer.)"
         }
       ]
     },
@@ -656,6 +629,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-27、予約可",
+          "link": "https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-17T00:35:01.282Z",
+          "wordCount": 514,
+          "title": "［音楽］I want to hold your hand [国内アナログ盤 / 7インチ] (HYDRA-023) [Analog]"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,

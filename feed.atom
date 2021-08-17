@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-08-16T00:34:48.002Z</updated>
+    <updated>2021-08-17T00:35:01.309Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［音楽］I want to hold your hand [国内アナログ盤 / 7インチ] (HYDRA-023) [Analog]]]></title>
+        <id>https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-08-17T00:35:01.282Z</updated>
+        <summary type="html"><![CDATA[2021-08-27、予約可]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［音楽］【Amazon.co.jp限定】ARTISAN (30th Anniversary Edition) (メガジャケ付)]]></title>
         <id>https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -914,36 +924,6 @@
         <summary type="html"><![CDATA[2021-05-19]]></summary>
         <author>
             <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［音楽］アイランズ (MQA-CDVer.)]]></title>
-        <id>https://www.amazon.co.jp/dp/B08THZ24M3?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B08THZ24M3?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-07-18T00:35:22.585Z</updated>
-        <summary type="html"><![CDATA[2021-05-19]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］基礎から学ぶ Terraform]]></title>
-        <id>https://www.amazon.co.jp/dp/4863543247?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4863543247?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-07-18T00:35:22.300Z</updated>
-        <summary type="html"><![CDATA[2021-12-20、予約可]]></summary>
-        <author>
-            <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］AWS認定ソリューションアーキテクト-アソシエイト問題集]]></title>
-        <id>https://www.amazon.co.jp/dp/486594303X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/486594303X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-07-18T00:35:22.034Z</updated>
-        <summary type="html"><![CDATA[2021-08-06、予約可]]></summary>
-        <author>
-            <name>「AWS」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
