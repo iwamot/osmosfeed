@@ -299,6 +299,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-08、予約可",
+          "link": "https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-19T00:29:53.357Z",
+          "wordCount": 502,
+          "title": "［和書］バンド・スコア　キング・クリムゾン「クリムゾン・キングの宮殿」【新装版】"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B097HBSSJ5?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-08-25、予約可",
@@ -612,15 +621,6 @@
           "publishedOn": "2021-07-28T00:35:56.615Z",
           "wordCount": 460,
           "title": "［音楽］エレメンツ 2021 ツアー・ボックス"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2013-06-19",
-          "link": "https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-20T00:37:24.247Z",
-          "wordCount": 617,
-          "title": "［DVD］クリムゾン・キングの宮殿~40周年記念エディション DVDオーディオ+K2HD HQCD"
         }
       ]
     },

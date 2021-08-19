@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-08-18T00:33:59.684Z</updated>
+    <updated>2021-08-19T00:29:53.421Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［和書］バンド・スコア　キング・クリムゾン「クリムゾン・キングの宮殿」【新装版】]]></title>
+        <id>https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-08-19T00:29:53.357Z</updated>
+        <summary type="html"><![CDATA[2021-09-08、予約可]]></summary>
+        <author>
+            <name>「"King Crimson"」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［和書］AWS認定ソリューションアーキテクト-アソシエイト問題集]]></title>
         <id>https://www.amazon.co.jp/dp/486594303X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -914,16 +924,6 @@
         <summary type="html"><![CDATA[2021-09-15、予約可]]></summary>
         <author>
             <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［DVD］クリムゾン・キングの宮殿~40周年記念エディション DVDオーディオ+K2HD HQCD]]></title>
-        <id>https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-07-20T00:37:24.247Z</updated>
-        <summary type="html"><![CDATA[2013-06-19]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
