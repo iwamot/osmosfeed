@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-08-19T00:29:53.421Z</updated>
+    <updated>2021-08-20T00:34:13.763Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［和書］KING CRIMSON'S MUSIC,HISTORY & CONNECTION キング・クリムゾンと変革の時代 A Guide Book for Progressive Rock]]></title>
+        <id>https://www.amazon.co.jp/dp/4044004366?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4044004366?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-08-20T00:34:13.718Z</updated>
+        <summary type="html"><![CDATA[2018-11-24]]></summary>
+        <author>
+            <name>「"King Crimson"」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［DVD］クリムゾン・キングの宮殿~40周年記念エディション DVDオーディオ+K2HD HQCD]]></title>
+        <id>https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-08-20T00:34:13.525Z</updated>
+        <summary type="html"><![CDATA[2013-06-19]]></summary>
+        <author>
+            <name>「"King Crimson"」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］なつ満喫[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B09D2XHJ9C?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B09D2XHJ9C?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-08-20T00:34:13.397Z</updated>
+        <summary type="html"><![CDATA[2021-08-18]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］IT資格試験に英語版で合格する方法とメリット: CISA・Security+・ITILに英語で合格した著者が教える！グローバルな環境で武器になる英語での国際資格取得[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B09CTVXHNQ?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B09CTVXHNQ?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-08-20T00:34:13.315Z</updated>
+        <summary type="html"><![CDATA[2021-08-16]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］IT資格試験に英語版で合格する方法とメリット: CISA・Security+・ITILに英語で合格した著者が教える！グローバルな環境で武器になる英語での国際資格取得[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B09CTVXHNQ?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B09CTVXHNQ?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-08-20T00:34:13.154Z</updated>
+        <summary type="html"><![CDATA[2021-08-16]]></summary>
+        <author>
+            <name>「インフラエンジニア」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［和書］バンド・スコア　キング・クリムゾン「クリムゾン・キングの宮殿」【新装版】]]></title>
         <id>https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -894,36 +944,6 @@
         <summary type="html"><![CDATA[2021-03-17]]></summary>
         <author>
             <name>「インフラエンジニア」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［音楽］ARTISAN (30th Anniversary Edition) (アナログ盤) [Analog]]]></title>
-        <id>https://www.amazon.co.jp/dp/B096G254CL?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B096G254CL?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-07-21T00:35:48.157Z</updated>
-        <summary type="html"><![CDATA[2021-08-18、予約可]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］Rhythm & Drums magazine (リズム アンド ドラムマガジン) 2021年 10月号]]></title>
-        <id>https://www.amazon.co.jp/dp/B099TRJ9Q2?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B099TRJ9Q2?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-07-21T00:35:47.693Z</updated>
-        <summary type="html"><![CDATA[2021-09-16、予約可]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］New Relic実践入門 監視からオブザーバビリティへの変革]]></title>
-        <id>https://www.amazon.co.jp/dp/4798166596?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4798166596?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-07-21T00:35:45.484Z</updated>
-        <summary type="html"><![CDATA[2021-09-15、予約可]]></summary>
-        <author>
-            <name>「AWS」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
