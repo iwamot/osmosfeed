@@ -6,6 +6,24 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B09DKZWX7N?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-22、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09DKZWX7N?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-26T00:32:45.780Z",
+          "wordCount": 544,
+          "title": "［和書］AWS認定資格試験テキスト＆問題集　AWS認定ソリューションアーキテクト - プロフェッショナル[Kindle版]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09DKZC1ZH?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-16、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09DKZC1ZH?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-26T00:32:45.523Z",
+          "wordCount": 640,
+          "title": "［和書］AWSコンテナ設計・構築［本格］入門[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4873119685?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-10-15、予約可",
