@@ -193,15 +193,6 @@
           "publishedOn": "2021-07-31T00:34:51.180Z",
           "wordCount": 562,
           "title": "［和書］TerraformでFargateを構築してGitHub Actionsでデプロイ！Laravel編[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4798153958?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-19",
-          "link": "https://www.amazon.co.jp/dp/4798153958?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-29T00:33:37.666Z",
-          "wordCount": 698,
-          "title": "［和書］実践Django Pythonによる本格Webアプリケーション開発 (Programmer’s SELECTION)"
         }
       ]
     },
@@ -326,15 +317,6 @@
           "publishedOn": "2021-07-30T00:35:21.950Z",
           "wordCount": 770,
           "title": "［和書］AWSではじめるインフラ構築入門 安全で堅牢な本番環境のつくり方"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-30、予約可",
-          "link": "https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-29T00:33:37.778Z",
-          "wordCount": 516,
-          "title": "［和書］Hell World"
         }
       ]
     },
@@ -343,6 +325,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%22King+Crimson%22&omit=fgs",
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-22、予約可",
+          "link": "https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-28T00:33:03.829Z",
+          "wordCount": 550,
+          "title": "［音楽］エレメンツ 2021 ツアー・ボックス"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/4044004366?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -666,15 +657,6 @@
           "publishedOn": "2021-08-01T00:40:09.366Z",
           "wordCount": 2153,
           "title": "［DVD］暗黒の世界~40周年記念エディション DVDオーディオ+K2HD HQCD"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-23",
-          "link": "https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-29T00:33:37.407Z",
-          "wordCount": 467,
-          "title": "［音楽］Elements Tour Box 2021"
         }
       ]
     },

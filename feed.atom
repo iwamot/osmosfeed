@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-08-27T00:37:27.606Z</updated>
+    <updated>2021-08-28T00:33:03.851Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［音楽］エレメンツ 2021 ツアー・ボックス]]></title>
+        <id>https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-08-28T00:33:03.829Z</updated>
+        <summary type="html"><![CDATA[2021-09-22、予約可]]></summary>
+        <author>
+            <name>「"King Crimson"」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［和書］これならすぐに両手で弾ける! ほんとにはじめてのピアノ 【ニューミュージック編】 (楽譜)]]></title>
         <id>https://www.amazon.co.jp/dp/4773247428?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -984,36 +994,6 @@
         <summary type="html"><![CDATA[2021-07-21]]></summary>
         <author>
             <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］Hell World]]></title>
-        <id>https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-07-29T00:33:37.778Z</updated>
-        <summary type="html"><![CDATA[2021-07-30、予約可]]></summary>
-        <author>
-            <name>「インフラエンジニア」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］実践Django Pythonによる本格Webアプリケーション開発 (Programmer’s SELECTION)]]></title>
-        <id>https://www.amazon.co.jp/dp/4798153958?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4798153958?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-07-29T00:33:37.666Z</updated>
-        <summary type="html"><![CDATA[2021-07-19]]></summary>
-        <author>
-            <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［音楽］Elements Tour Box 2021]]></title>
-        <id>https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-07-29T00:33:37.407Z</updated>
-        <summary type="html"><![CDATA[2021-07-23]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
