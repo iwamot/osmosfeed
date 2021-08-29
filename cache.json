@@ -202,6 +202,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-30",
+          "link": "https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-29T00:36:21.224Z",
+          "wordCount": 517,
+          "title": "［和書］Hell World"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4798165034?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-03-17",
@@ -308,15 +317,6 @@
           "publishedOn": "2021-08-07T00:32:02.545Z",
           "wordCount": 642,
           "title": "［和書］最短3時間で覚えるLinuxシェルスクリプト[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4798163430?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-02-10",
-          "link": "https://www.amazon.co.jp/dp/4798163430?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-30T00:35:21.950Z",
-          "wordCount": 770,
-          "title": "［和書］AWSではじめるインフラ構築入門 安全で堅牢な本番環境のつくり方"
         }
       ]
     },
@@ -325,6 +325,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%22King+Crimson%22&omit=fgs",
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-23",
+          "link": "https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-29T00:36:21.933Z",
+          "wordCount": 1215,
+          "title": "［音楽］Elements Tour Box 2021"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -907,15 +916,6 @@
           "publishedOn": "2021-08-04T00:33:36.866Z",
           "wordCount": 919,
           "title": "［和書］モーニング 2021年36・37号 [2021年8月5日発売] [雑誌][Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-21",
-          "link": "https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-30T00:35:21.680Z",
-          "wordCount": 590,
-          "title": "［音楽］僕のスピな☆ムン太郎 (完全生産限定盤) (特典なし)"
         }
       ]
     }

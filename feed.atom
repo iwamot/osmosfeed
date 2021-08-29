@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-08-28T00:33:03.851Z</updated>
+    <updated>2021-08-29T00:36:21.954Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［音楽］Elements Tour Box 2021]]></title>
+        <id>https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-08-29T00:36:21.933Z</updated>
+        <summary type="html"><![CDATA[2021-07-23]]></summary>
+        <author>
+            <name>「"King Crimson"」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］Hell World]]></title>
+        <id>https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-08-29T00:36:21.224Z</updated>
+        <summary type="html"><![CDATA[2021-07-30]]></summary>
+        <author>
+            <name>「インフラエンジニア」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［音楽］エレメンツ 2021 ツアー・ボックス]]></title>
         <id>https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -974,26 +994,6 @@
         <summary type="html"><![CDATA[2021-07-28]]></summary>
         <author>
             <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］AWSではじめるインフラ構築入門 安全で堅牢な本番環境のつくり方]]></title>
-        <id>https://www.amazon.co.jp/dp/4798163430?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4798163430?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-07-30T00:35:21.950Z</updated>
-        <summary type="html"><![CDATA[2021-02-10]]></summary>
-        <author>
-            <name>「インフラエンジニア」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［音楽］僕のスピな☆ムン太郎 (完全生産限定盤) (特典なし)]]></title>
-        <id>https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-07-30T00:35:21.680Z</updated>
-        <summary type="html"><![CDATA[2021-07-21]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
