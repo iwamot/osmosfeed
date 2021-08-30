@@ -175,24 +175,6 @@
           "publishedOn": "2021-08-02T00:35:12.957Z",
           "wordCount": 826,
           "title": "［和書］図解 コンサル一年目が学ぶこと"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B098WVGCZR?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-16",
-          "link": "https://www.amazon.co.jp/dp/B098WVGCZR?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-31T00:34:51.472Z",
-          "wordCount": 670,
-          "title": "［和書］Software Design (ソフトウェアデザイン) 2021年8月号 [雑誌][Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09BG2NYT6?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-28",
-          "link": "https://www.amazon.co.jp/dp/B09BG2NYT6?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-07-31T00:34:51.180Z",
-          "wordCount": 562,
-          "title": "［和書］TerraformでFargateを構築してGitHub Actionsでデプロイ！Laravel編[Kindle版]"
         }
       ]
     },
@@ -674,6 +656,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-21",
+          "link": "https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-08-30T00:35:01.884Z",
+          "wordCount": 691,
+          "title": "［音楽］僕のスピな☆ムン太郎 (完全生産限定盤) (特典なし)"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/4773247428?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
