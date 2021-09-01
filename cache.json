@@ -6,6 +6,24 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4798166596?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-15、予約可",
+          "link": "https://www.amazon.co.jp/dp/4798166596?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-01T00:38:18.938Z",
+          "wordCount": 726,
+          "title": "［和書］New Relic実践入門 監視からオブザーバビリティへの変革"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09F2Q7HHF?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-10、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09F2Q7HHF?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-01T00:38:18.725Z",
+          "wordCount": 697,
+          "title": "［和書］AWS認定ソリューションアーキテクト－アソシエイト問題集[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09BG2NYT6?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-07-28",
@@ -175,15 +193,6 @@
           "publishedOn": "2021-08-08T00:35:03.508Z",
           "wordCount": 604,
           "title": "［和書］for Startups Tech Book Vol.1　スモールチームで開発するためのプラクティス (技術の泉シリーズ（NextPublishing）)[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4799327666?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-16",
-          "link": "https://www.amazon.co.jp/dp/4799327666?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-02T00:35:12.957Z",
-          "wordCount": 826,
-          "title": "［和書］図解 コンサル一年目が学ぶこと"
         }
       ]
     },
@@ -316,6 +325,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%22King+Crimson%22&omit=fgs",
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B00CICW6B4?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2013-06-19",
+          "link": "https://www.amazon.co.jp/dp/B00CICW6B4?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-01T00:38:19.309Z",
+          "wordCount": 2005,
+          "title": "［DVD］暗黒の世界~40周年記念エディション DVDオーディオ+K2HD HQCD"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
