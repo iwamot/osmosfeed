@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B08WWHBF1J?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-24、予約可",
+          "link": "https://www.amazon.co.jp/dp/B08WWHBF1J?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-09T00:37:56.627Z",
+          "wordCount": 705,
+          "title": "［和書］New Relic実践入門 監視からオブザーバビリティへの変革[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4863543565?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2022-01-20、予約可",
@@ -148,15 +157,6 @@
           "publishedOn": "2021-08-12T00:35:10.295Z",
           "wordCount": 566,
           "title": "［和書］AWSではじめる クラウド開発入門[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B0991JYSFT?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-08",
-          "link": "https://www.amazon.co.jp/dp/B0991JYSFT?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-10T00:38:13.053Z",
-          "wordCount": 801,
-          "title": "［和書］アマゾンを食う、地味すぎるユニコーン企業: アマゾンの目の上のたんこぶ 世界一の社会人の漫画[Kindle版]"
         }
       ]
     },
@@ -549,6 +549,24 @@
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B08JYCD35L?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2020-12-16",
+          "link": "https://www.amazon.co.jp/dp/B08JYCD35L?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-09T00:37:57.153Z",
+          "wordCount": 856,
+          "title": "［音楽］【Amazon.co.jp限定】クリスマス・イブ (2020 Version) (メガジャケ付) 【完全生産限定盤】 (ホワイト・ヴァイナル仕様/7インチシングルレコード) [Analog]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B08NTHM4CJ?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2020-12-11",
+          "link": "https://www.amazon.co.jp/dp/B08NTHM4CJ?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-09T00:37:56.908Z",
+          "wordCount": 943,
+          "title": "［音楽］【Amazon.co.jp限定】OPUS ~ALL TIME BEST 1975-2012~ (通常盤) (特典:メガジャケ付)"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09771LG1S?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-06-17",
@@ -736,15 +754,6 @@
           "publishedOn": "2021-08-11T00:39:06.562Z",
           "wordCount": 524,
           "title": "［和書］ジェフ・ポーカロ その人生と音楽(仮) It's About Time: Jeff Porcaro - The Man and His Music"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-18、予約可",
-          "link": "https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-10T00:38:13.776Z",
-          "wordCount": 777,
-          "title": "［音楽］ARTISAN (30th Anniversary Edition)"
         }
       ]
     }
