@@ -166,6 +166,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4886142664?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-28、予約可",
+          "link": "https://www.amazon.co.jp/dp/4886142664?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-10T00:40:21.343Z",
+          "wordCount": 441,
+          "title": "［和書］HERO ―東京をつくった土木エンジニアたちの物語―"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4297122898?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-09-21、予約可",
@@ -531,15 +540,6 @@
           "publishedOn": "2021-08-15T00:34:55.428Z",
           "wordCount": 514,
           "title": "［音楽］スリー・オブ・ア・パーフェクト・ペアー スティーヴン・ウイルソン・ステレオ・ミックス MQA-CD"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2018-11-24",
-          "link": "https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-11T00:39:05.332Z",
-          "wordCount": 755,
-          "title": "［和書］KING CRIMSON'S MUSIC,HISTORY & CONNECTION　キング・クリムゾンと変革の時代　A Guide Book for Progressive Rock (角川学芸出版単行本)[Kindle版]"
         }
       ]
     },
@@ -548,6 +548,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-18",
+          "link": "https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-10T00:40:22.104Z",
+          "wordCount": 836,
+          "title": "［音楽］ARTISAN (30th Anniversary Edition)"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B08JYCD35L?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -745,15 +754,6 @@
           "publishedOn": "2021-08-14T00:32:24.644Z",
           "wordCount": 1021,
           "title": "［和書］モーニング 2021年33号 [2021年7月15日発売] [雑誌][Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4866471581?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2022-03-11、予約可",
-          "link": "https://www.amazon.co.jp/dp/4866471581?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-11T00:39:06.562Z",
-          "wordCount": 524,
-          "title": "［和書］ジェフ・ポーカロ その人生と音楽(仮) It's About Time: Jeff Porcaro - The Man and His Music"
         }
       ]
     }

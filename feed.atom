@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-09-09T00:37:57.177Z</updated>
+    <updated>2021-09-10T00:40:22.129Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［音楽］ARTISAN (30th Anniversary Edition)]]></title>
+        <id>https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-09-10T00:40:22.104Z</updated>
+        <summary type="html"><![CDATA[2021-08-18]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］HERO ―東京をつくった土木エンジニアたちの物語―]]></title>
+        <id>https://www.amazon.co.jp/dp/4886142664?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4886142664?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-09-10T00:40:21.343Z</updated>
+        <summary type="html"><![CDATA[2021-09-28、予約可]]></summary>
+        <author>
+            <name>「インフラエンジニア」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［音楽］【Amazon.co.jp限定】クリスマス・イブ (2020 Version) (メガジャケ付) 【完全生産限定盤】 (ホワイト・ヴァイナル仕様/7インチシングルレコード) [Analog]]]></title>
         <id>https://www.amazon.co.jp/dp/B08JYCD35L?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -794,26 +814,6 @@
         <summary type="html"><![CDATA[2021-09-27、予約可]]></summary>
         <author>
             <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］ジェフ・ポーカロ その人生と音楽(仮) It's About Time: Jeff Porcaro - The Man and His Music]]></title>
-        <id>https://www.amazon.co.jp/dp/4866471581?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4866471581?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-08-11T00:39:06.562Z</updated>
-        <summary type="html"><![CDATA[2022-03-11、予約可]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］KING CRIMSON'S MUSIC,HISTORY & CONNECTION　キング・クリムゾンと変革の時代　A Guide Book for Progressive Rock (角川学芸出版単行本)[Kindle版]]]></title>
-        <id>https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-08-11T00:39:05.332Z</updated>
-        <summary type="html"><![CDATA[2018-11-24]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
