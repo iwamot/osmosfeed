@@ -6,6 +6,24 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4798064394?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-31",
+          "link": "https://www.amazon.co.jp/dp/4798064394?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-12T00:38:35.496Z",
+          "wordCount": 698,
+          "title": "［和書］Python 実践データ加工/可視化 100本ノック"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09C7H6YHR?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-27、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09C7H6YHR?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-12T00:38:35.235Z",
+          "wordCount": 635,
+          "title": "［和書］AWSではじめる クラウド開発入門[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B08WWHBF1J?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-09-24、予約可",
@@ -130,15 +148,6 @@
           "publishedOn": "2021-08-15T00:34:55.316Z",
           "wordCount": 755,
           "title": "［和書］WEB+DB PRESS総集編[Vol.1~120] (WEB+DB PRESSプラスシリーズ)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4839977607?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-27、予約可",
-          "link": "https://www.amazon.co.jp/dp/4839977607?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-13T00:36:07.984Z",
-          "wordCount": 510,
-          "title": "［和書］AWSではじめる クラウド開発入門"
         }
       ]
     },

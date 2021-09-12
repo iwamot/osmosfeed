@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-09-11T00:35:58.646Z</updated>
+    <updated>2021-09-12T00:38:35.721Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［和書］Python 実践データ加工/可視化 100本ノック]]></title>
+        <id>https://www.amazon.co.jp/dp/4798064394?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4798064394?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-09-12T00:38:35.496Z</updated>
+        <summary type="html"><![CDATA[2021-07-31]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］AWSではじめる クラウド開発入門[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B09C7H6YHR?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B09C7H6YHR?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-09-12T00:38:35.235Z</updated>
+        <summary type="html"><![CDATA[2021-09-27、予約可]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［音楽］Futures (カセットテープ) [B3SRTAPE047]]]></title>
         <id>https://www.amazon.co.jp/dp/B08WQLQCGM?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -824,16 +844,6 @@
         <summary type="html"><![CDATA[2021-07-15]]></summary>
         <author>
             <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］AWSではじめる クラウド開発入門]]></title>
-        <id>https://www.amazon.co.jp/dp/4839977607?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4839977607?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-08-13T00:36:07.984Z</updated>
-        <summary type="html"><![CDATA[2021-09-27、予約可]]></summary>
-        <author>
-            <name>「AWS」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
