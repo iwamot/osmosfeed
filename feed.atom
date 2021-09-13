@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-09-12T00:38:35.721Z</updated>
+    <updated>2021-09-13T00:39:22.404Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
@@ -834,16 +834,6 @@
         <summary type="html"><![CDATA[2021-07-31]]></summary>
         <author>
             <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］モーニング 2021年33号 [2021年7月15日発売] [雑誌][Kindle版]]]></title>
-        <id>https://www.amazon.co.jp/dp/B09965859V?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B09965859V?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-08-14T00:32:24.644Z</updated>
-        <summary type="html"><![CDATA[2021-07-15]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
