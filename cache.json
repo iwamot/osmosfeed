@@ -139,15 +139,6 @@
           "publishedOn": "2021-08-18T00:33:59.663Z",
           "wordCount": 802,
           "title": "［和書］AWS認定ソリューションアーキテクト-アソシエイト問題集"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4297122154?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-31",
-          "link": "https://www.amazon.co.jp/dp/4297122154?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-15T00:34:55.316Z",
-          "wordCount": 755,
-          "title": "［和書］WEB+DB PRESS総集編[Vol.1~120] (WEB+DB PRESSプラスシリーズ)"
         }
       ]
     },
@@ -477,69 +468,6 @@
           "publishedOn": "2021-08-19T00:29:53.357Z",
           "wordCount": 502,
           "title": "［和書］バンド・スコア　キング・クリムゾン「クリムゾン・キングの宮殿」【新装版】"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B097HBSSJ5?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-25、予約可",
-          "link": "https://www.amazon.co.jp/dp/B097HBSSJ5?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-15T00:34:56.245Z",
-          "wordCount": 1185,
-          "title": "［音楽］スラック ジャッコ・ジャクジク&ロバート・フリップ・ステレオ・ミックス (MQA-CD)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B097H6FL4V?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-25、予約可",
-          "link": "https://www.amazon.co.jp/dp/B097H6FL4V?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-15T00:34:56.050Z",
-          "wordCount": 520,
-          "title": "［音楽］ザ・パワー・トゥ・ビリーヴ　2019フリップ＆シングルトン・リマスター (MQA-CD)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B097H6PKD5?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-25、予約可",
-          "link": "https://www.amazon.co.jp/dp/B097H6PKD5?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-15T00:34:55.970Z",
-          "wordCount": 514,
-          "title": "［音楽］ディシプリン スティーヴン・ウイルソン・ステレオ・ミックス (MQA-CD)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B097H5QLG2?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-25、予約可",
-          "link": "https://www.amazon.co.jp/dp/B097H5QLG2?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-15T00:34:55.770Z",
-          "wordCount": 516,
-          "title": "［音楽］ザ・リコンストラクション・オブ・ライト ドン・ガン・ステレオ・ミックス (MQA-CD)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B097H7QVSX?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-25、予約可",
-          "link": "https://www.amazon.co.jp/dp/B097H7QVSX?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-15T00:34:55.653Z",
-          "wordCount": 516,
-          "title": "［音楽］ビート スティーヴン・ウイルソン・ステレオ・ミックス (MQA-CD)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B0937XHN1Z?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-06-23",
-          "link": "https://www.amazon.co.jp/dp/B0937XHN1Z?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-15T00:34:55.542Z",
-          "wordCount": 669,
-          "title": "［音楽］濃縮キング・クリムゾン~ベスト・オブ・キング・クリムゾン1969-2003(SHM-CD Ver.) 通常盤"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B097H74NRP?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-25、予約可",
-          "link": "https://www.amazon.co.jp/dp/B097H74NRP?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-15T00:34:55.428Z",
-          "wordCount": 514,
-          "title": "［音楽］スリー・オブ・ア・パーフェクト・ペアー スティーヴン・ウイルソン・ステレオ・ミックス MQA-CD"
         }
       ]
     },
@@ -548,6 +476,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09965859V?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-15",
+          "link": "https://www.amazon.co.jp/dp/B09965859V?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-14T00:38:15.033Z",
+          "wordCount": 1028,
+          "title": "［和書］モーニング 2021年33号 [2021年7月15日発売] [雑誌][Kindle版]"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B08WQLQCGM?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
