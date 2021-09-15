@@ -254,6 +254,69 @@
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B097H74NRP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-25",
+          "link": "https://www.amazon.co.jp/dp/B097H74NRP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-15T00:36:48.981Z",
+          "wordCount": 1330,
+          "title": "［音楽］スリー・オブ・ア・パーフェクト・ペアー スティーヴン・ウイルソン・ステレオ・ミックス MQA-CD"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B097H6FL4V?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-25",
+          "link": "https://www.amazon.co.jp/dp/B097H6FL4V?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-15T00:36:48.752Z",
+          "wordCount": 1251,
+          "title": "［音楽］ザ・パワー・トゥ・ビリーヴ　2019フリップ＆シングルトン・リマスター (MQA-CD)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B097HBSSJ5?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-25",
+          "link": "https://www.amazon.co.jp/dp/B097HBSSJ5?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-15T00:36:48.543Z",
+          "wordCount": 1236,
+          "title": "［音楽］スラック ジャッコ・ジャクジク&ロバート・フリップ・ステレオ・ミックス (MQA-CD)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B00CICW6DM?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2013-06-19",
+          "link": "https://www.amazon.co.jp/dp/B00CICW6DM?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-15T00:36:48.323Z",
+          "wordCount": 542,
+          "title": "［DVD］リザード~40周年記念エディション DVDオーディオ+K2HD HQCD"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B097H5QLG2?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-25",
+          "link": "https://www.amazon.co.jp/dp/B097H5QLG2?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-15T00:36:48.108Z",
+          "wordCount": 587,
+          "title": "［音楽］ザ・リコンストラクション・オブ・ライト ドン・ガン・ステレオ・ミックス (MQA-CD)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B097H7QVSX?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-25",
+          "link": "https://www.amazon.co.jp/dp/B097H7QVSX?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-15T00:36:47.876Z",
+          "wordCount": 583,
+          "title": "［音楽］ビート スティーヴン・ウイルソン・ステレオ・ミックス (MQA-CD)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B097H6PKD5?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-25",
+          "link": "https://www.amazon.co.jp/dp/B097H6PKD5?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-15T00:36:47.665Z",
+          "wordCount": 587,
+          "title": "［音楽］ディシプリン スティーヴン・ウイルソン・ステレオ・ミックス (MQA-CD)"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2018-11-24",
@@ -477,6 +540,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4041118840?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-27、予約可",
+          "link": "https://www.amazon.co.jp/dp/4041118840?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-15T00:36:47.385Z",
+          "wordCount": 421,
+          "title": "［和書］風街とデラシネ 作詞家・松本隆の50年"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09965859V?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-07-15",
@@ -691,24 +763,6 @@
           "publishedOn": "2021-08-17T00:35:01.282Z",
           "wordCount": 514,
           "title": "［音楽］I want to hold your hand [国内アナログ盤 / 7インチ] (HYDRA-023) [Analog]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-18、予約可",
-          "link": "https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-16T00:34:47.984Z",
-          "wordCount": 757,
-          "title": "［音楽］【Amazon.co.jp限定】ARTISAN (30th Anniversary Edition) (メガジャケ付)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B08JY565JM?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2020-12-16",
-          "link": "https://www.amazon.co.jp/dp/B08JY565JM?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-16T00:34:47.623Z",
-          "wordCount": 802,
-          "title": "［音楽］クリスマス・イブ (2020Version) 【完全生産限定盤】 (ホワイト・ヴァイナル仕様/7インチシングルレコード) [Analog]"
         }
       ]
     }
