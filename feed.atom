@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-09-15T00:36:49.014Z</updated>
+    <updated>2021-09-16T00:38:12.811Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
@@ -814,16 +814,6 @@
         <summary type="html"><![CDATA[2021-08-12]]></summary>
         <author>
             <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［音楽］I want to hold your hand [国内アナログ盤 / 7インチ] (HYDRA-023) [Analog]]]></title>
-        <id>https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-08-17T00:35:01.282Z</updated>
-        <summary type="html"><![CDATA[2021-08-27、予約可]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
