@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B09GFJ4CCV?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-15",
+          "link": "https://www.amazon.co.jp/dp/B09GFJ4CCV?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-17T00:40:44.517Z",
+          "wordCount": 542,
+          "title": "［和書］誰でも3ステップで簡単に節約！ AWS EC2 自動起動・自動停止の設定方法[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4798064394?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-07-31",
@@ -130,15 +139,6 @@
           "publishedOn": "2021-08-20T00:34:13.315Z",
           "wordCount": 662,
           "title": "［和書］IT資格試験に英語版で合格する方法とメリット: CISA・Security+・ITILに英語で合格した著者が教える！グローバルな環境で武器になる英語での国際資格取得[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/486594303X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-12",
-          "link": "https://www.amazon.co.jp/dp/486594303X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-18T00:33:59.663Z",
-          "wordCount": 802,
-          "title": "［和書］AWS認定ソリューションアーキテクト-アソシエイト問題集"
         }
       ]
     },
@@ -540,6 +540,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-27",
+          "link": "https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-17T00:40:44.704Z",
+          "wordCount": 517,
+          "title": "［音楽］I want to hold your hand [国内アナログ盤 / 7インチ] (HYDRA-023) [Analog]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4041118840?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-10-27、予約可",
@@ -758,5 +767,5 @@
       ]
     }
   ],
-  "cliVersion": "1.11.0"
+  "cliVersion": "1.11.1"
 }
