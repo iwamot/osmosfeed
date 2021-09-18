@@ -6,6 +6,24 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4798065331?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-27",
+          "link": "https://www.amazon.co.jp/dp/4798065331?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-18T00:35:32.292Z",
+          "wordCount": 648,
+          "title": "［和書］TypeScriptハンズオン"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09GFB67X1?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-24、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09GFB67X1?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-18T00:35:32.022Z",
+          "wordCount": 548,
+          "title": "［和書］TerraformでFargateを構築してGitHub Actionsでデプロイ！Laravel編 (技術の泉シリーズ（NextPublishing）)[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09GFJ4CCV?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-09-15",
@@ -522,15 +540,6 @@
           "publishedOn": "2021-08-20T00:34:13.525Z",
           "wordCount": 601,
           "title": "［DVD］クリムゾン・キングの宮殿~40周年記念エディション DVDオーディオ+K2HD HQCD"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-08、予約可",
-          "link": "https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-19T00:29:53.357Z",
-          "wordCount": 502,
-          "title": "［和書］バンド・スコア　キング・クリムゾン「クリムゾン・キングの宮殿」【新装版】"
         }
       ]
     },
@@ -539,6 +548,24 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09GFDJ8JW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-22、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09GFDJ8JW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-18T00:35:32.800Z",
+          "wordCount": 826,
+          "title": "［和書］モーニング 2021年43号 [2021年9月22日発売] [雑誌][Kindle版]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-18",
+          "link": "https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-18T00:35:32.577Z",
+          "wordCount": 949,
+          "title": "［音楽］【Amazon.co.jp限定】ARTISAN (30th Anniversary Edition) (メガジャケ付)"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
