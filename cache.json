@@ -166,15 +166,6 @@
           "publishedOn": "2021-08-26T00:32:45.523Z",
           "wordCount": 640,
           "title": "［和書］AWSコンテナ設計・構築［本格］入門[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4873119685?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-10-15、予約可",
-          "link": "https://www.amazon.co.jp/dp/4873119685?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-21T00:33:57.040Z",
-          "wordCount": 517,
-          "title": "［和書］実践 AWSデータサイエンス ―エンドツーエンドのMLOpsパイプライン実装"
         }
       ]
     },
@@ -183,6 +174,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09CTVXHNQ?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-16",
+          "link": "https://www.amazon.co.jp/dp/B09CTVXHNQ?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-20T00:40:50.528Z",
+          "wordCount": 719,
+          "title": "［和書］IT資格試験に英語版で合格する方法とメリット: CISA・Security+・ITILに英語で合格した著者が教える！グローバルな環境で武器になる英語での国際資格取得[Kindle版]"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/4886142664?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -263,15 +263,6 @@
           "publishedOn": "2021-08-22T00:33:56.770Z",
           "wordCount": 743,
           "title": "［和書］ソフトウェア品質を高める開発者テスト アジャイル時代の実践的・効率的なテストのやり方"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09D4MMN35?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-18",
-          "link": "https://www.amazon.co.jp/dp/B09D4MMN35?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-21T00:33:56.886Z",
-          "wordCount": 552,
-          "title": "［和書］知らないと損するSESエンジニアが年収300万円UPさせる方法[Kindle版]"
         }
       ]
     },
@@ -280,6 +271,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%22King+Crimson%22&omit=fgs",
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2013-06-19",
+          "link": "https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-20T00:40:50.983Z",
+          "wordCount": 477,
+          "title": "［DVD］クリムゾン・キングの宮殿~40周年記念エディション DVDオーディオ+K2HD HQCD"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -549,6 +549,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B09D2XHJ9C?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-18",
+          "link": "https://www.amazon.co.jp/dp/B09D2XHJ9C?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-20T00:40:50.749Z",
+          "wordCount": 537,
+          "title": "［和書］なつ満喫[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09GFDJ8JW?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-09-22、予約可",
@@ -772,15 +781,6 @@
           "publishedOn": "2021-08-22T00:33:56.960Z",
           "wordCount": 764,
           "title": "［音楽］ARTISAN (30th Anniversary Edition) (アナログ盤) [Analog]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B099TRJ9Q2?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-16、予約可",
-          "link": "https://www.amazon.co.jp/dp/B099TRJ9Q2?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-21T00:33:57.237Z",
-          "wordCount": 616,
-          "title": "［和書］Rhythm & Drums magazine (リズム アンド ドラムマガジン) 2021年 10月号"
         }
       ]
     }
