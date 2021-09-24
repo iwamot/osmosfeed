@@ -603,6 +603,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B09DCMTYPP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-26",
+          "link": "https://www.amazon.co.jp/dp/B09DCMTYPP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-24T00:36:42.598Z",
+          "wordCount": 1038,
+          "title": "［和書］モーニング 2021年39号 [2021年8月26日発売] [雑誌][Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09D2XHJ9C?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-08-18",
