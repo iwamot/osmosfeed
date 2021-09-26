@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-09-25T00:36:17.263Z</updated>
+    <updated>2021-09-26T00:39:30.361Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［和書］図解即戦力 インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書]]></title>
+        <id>https://www.amazon.co.jp/dp/4297122898?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4297122898?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-09-26T00:39:30.336Z</updated>
+        <summary type="html"><![CDATA[2021-09-21]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［和書］AWSではじめる クラウド開発入門 (Compass Data Science)]]></title>
         <id>https://www.amazon.co.jp/dp/4839977607?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -854,36 +864,6 @@
         <summary type="html"><![CDATA[2021-09-22、予約可]]></summary>
         <author>
             <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］これならすぐに両手で弾ける! ほんとにはじめてのピアノ 【ニューミュージック編】 (楽譜)]]></title>
-        <id>https://www.amazon.co.jp/dp/4773247428?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4773247428?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-08-27T00:37:27.583Z</updated>
-        <summary type="html"><![CDATA[2021-09-10、予約可]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］AWS認定資格試験テキスト&問題集 AWS認定ソリューションアーキテクト - プロフェッショナル]]></title>
-        <id>https://www.amazon.co.jp/dp/4815609063?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4815609063?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-08-27T00:37:27.410Z</updated>
-        <summary type="html"><![CDATA[2021-10-22、予約可]]></summary>
-        <author>
-            <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］AWSコンテナ設計・構築[本格]入門]]></title>
-        <id>https://www.amazon.co.jp/dp/4815607656?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4815607656?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-08-27T00:37:27.205Z</updated>
-        <summary type="html"><![CDATA[2021-10-16、予約可]]></summary>
-        <author>
-            <name>「AWS」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
