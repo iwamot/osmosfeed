@@ -6,6 +6,24 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B09HBWHQ7R?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-27",
+          "link": "https://www.amazon.co.jp/dp/B09HBWHQ7R?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-29T00:36:34.735Z",
+          "wordCount": 551,
+          "title": "［和書］1週間で攻略！AWS 認定機械学習 – 専門知識 本番用問題集 130問（65問 × 2セット） 詳解付き AWS認定本番用問題集シリーズ[Kindle版]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/4296070150?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-11-11、予約可",
+          "link": "https://www.amazon.co.jp/dp/4296070150?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-29T00:36:34.515Z",
+          "wordCount": 520,
+          "title": "［和書］DXを成功に導くクラウド活用推進ガイド CCoEベストプラクティス"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/429712307X?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-09-24",
@@ -220,6 +238,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-30",
+          "link": "https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-29T00:36:35.453Z",
+          "wordCount": 518,
+          "title": "［和書］Hell World"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4798165034?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-03-17",
@@ -316,6 +343,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%22King+Crimson%22&omit=fgs",
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-23",
+          "link": "https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-29T00:36:35.232Z",
+          "wordCount": 1438,
+          "title": "［音楽］Elements Tour Box 2021"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -603,6 +639,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B09FBTW329?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-27、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09FBTW329?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-29T00:36:34.977Z",
+          "wordCount": 749,
+          "title": "［和書］アコースティック・ギター・マガジン (ACOUSTIC GUITAR MAGAZINE) 2021年12月号 Autumn ISSUE Vol.90 (表紙:川崎鷹也/付録小冊子付き)"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4773247428?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-09-10",
@@ -817,15 +862,6 @@
           "publishedOn": "2021-08-31T00:36:25.640Z",
           "wordCount": 786,
           "title": "［和書］モーニング 2021年40号 [2021年9月2日発売] [雑誌][Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-21",
-          "link": "https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-30T00:35:01.884Z",
-          "wordCount": 691,
-          "title": "［音楽］僕のスピな☆ムン太郎 (完全生産限定盤) (特典なし)"
         }
       ]
     }
