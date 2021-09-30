@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B09HH9WQ2Q?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-28",
+          "link": "https://www.amazon.co.jp/dp/B09HH9WQ2Q?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-30T00:41:27.297Z",
+          "wordCount": 557,
+          "title": "［和書］1週間で攻略！AWS 認定データ分析 – 専門知識 本番用問題集 140問（65問 × 2セット + 10問） 詳解付き AWS認定本番用問題集シリーズ[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09HBWHQ7R?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-09-27",
@@ -220,15 +229,6 @@
           "publishedOn": "2021-09-01T00:38:18.725Z",
           "wordCount": 697,
           "title": "［和書］AWS認定ソリューションアーキテクト－アソシエイト問題集[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09BG2NYT6?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-28",
-          "link": "https://www.amazon.co.jp/dp/B09BG2NYT6?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-31T00:36:25.388Z",
-          "wordCount": 596,
-          "title": "［和書］TerraformでFargateを構築してGitHub Actionsでデプロイ！Laravel編[Kindle版]"
         }
       ]
     },
@@ -237,6 +237,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B08WWHBF1J?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-15",
+          "link": "https://www.amazon.co.jp/dp/B08WWHBF1J?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-30T00:41:27.544Z",
+          "wordCount": 800,
+          "title": "［和書］New Relic実践入門 監視からオブザーバビリティへの変革[Kindle版]"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -639,6 +648,24 @@
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B08YPZY9DX?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-23",
+          "link": "https://www.amazon.co.jp/dp/B08YPZY9DX?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-30T00:41:29.977Z",
+          "wordCount": 2868,
+          "title": "［音楽］McCartney III Imagined [Standard Vinyl] [12 inch Analog]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-21",
+          "link": "https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-09-30T00:41:29.705Z",
+          "wordCount": 686,
+          "title": "［音楽］僕のスピな☆ムン太郎 (完全生産限定盤) (特典なし)"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09FBTW329?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-10-27、予約可",
@@ -853,15 +880,6 @@
           "publishedOn": "2021-09-04T00:35:01.231Z",
           "wordCount": 1046,
           "title": "［和書］モーニング 2021年36・37号 [2021年8月5日発売] [雑誌][Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09DYDWBHD?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-02、予約可",
-          "link": "https://www.amazon.co.jp/dp/B09DYDWBHD?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-08-31T00:36:25.640Z",
-          "wordCount": 786,
-          "title": "［和書］モーニング 2021年40号 [2021年9月2日発売] [雑誌][Kindle版]"
         }
       ]
     }
