@@ -211,24 +211,6 @@
           "publishedOn": "2021-09-02T00:35:00.730Z",
           "wordCount": 514,
           "title": "［和書］合格対策Microsoft認定試験AZ-104:Microsoft Azure Administratorテキスト&演習問題"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4798166596?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-15、予約可",
-          "link": "https://www.amazon.co.jp/dp/4798166596?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-01T00:38:18.938Z",
-          "wordCount": 726,
-          "title": "［和書］New Relic実践入門 監視からオブザーバビリティへの変革"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09F2Q7HHF?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-10、予約可",
-          "link": "https://www.amazon.co.jp/dp/B09F2Q7HHF?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-01T00:38:18.725Z",
-          "wordCount": 697,
-          "title": "［和書］AWS認定ソリューションアーキテクト－アソシエイト問題集[Kindle版]"
         }
       ]
     },
@@ -630,15 +612,6 @@
           "publishedOn": "2021-09-04T00:34:58.648Z",
           "wordCount": 1778,
           "title": "［DVD］ディシプリン~40周年記念エディション DVDオーディオ+K2HD HQCD"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B00CICW6B4?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2013-06-19",
-          "link": "https://www.amazon.co.jp/dp/B00CICW6B4?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-01T00:38:19.309Z",
-          "wordCount": 2005,
-          "title": "［DVD］暗黒の世界~40周年記念エディション DVDオーディオ+K2HD HQCD"
         }
       ]
     },
@@ -647,6 +620,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09DYDWBHD?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-02",
+          "link": "https://www.amazon.co.jp/dp/B09DYDWBHD?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-01T00:40:37.967Z",
+          "wordCount": 1077,
+          "title": "［和書］モーニング 2021年40号 [2021年9月2日発売] [雑誌][Kindle版]"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B08YPZY9DX?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
