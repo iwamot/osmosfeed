@@ -202,15 +202,6 @@
           "publishedOn": "2021-09-08T00:34:44.933Z",
           "wordCount": 480,
           "title": "［和書］AWS Deep Racer"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4865943080?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-27、予約可",
-          "link": "https://www.amazon.co.jp/dp/4865943080?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-02T00:35:00.730Z",
-          "wordCount": 514,
-          "title": "［和書］合格対策Microsoft認定試験AZ-104:Microsoft Azure Administratorテキスト&演習問題"
         }
       ]
     },
@@ -334,6 +325,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%22King+Crimson%22&omit=fgs",
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B00CICW6B4?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2013-06-19",
+          "link": "https://www.amazon.co.jp/dp/B00CICW6B4?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-02T00:37:22.506Z",
+          "wordCount": 2001,
+          "title": "［DVD］暗黒の世界~40周年記念エディション DVDオーディオ+K2HD HQCD"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
