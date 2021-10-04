@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-10-03T00:41:45.432Z</updated>
+    <updated>2021-10-04T00:42:29.388Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
@@ -924,26 +924,6 @@
         <summary type="html"><![CDATA[2020-12-11]]></summary>
         <author>
             <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］モーニング 2021年36・37号 [2021年8月5日発売] [雑誌][Kindle版]]]></title>
-        <id>https://www.amazon.co.jp/dp/B09BNFJQJB?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B09BNFJQJB?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-04T00:35:01.231Z</updated>
-        <summary type="html"><![CDATA[2021-08-05]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［DVD］ディシプリン~40周年記念エディション DVDオーディオ+K2HD HQCD]]></title>
-        <id>https://www.amazon.co.jp/dp/B00CICW5UQ?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B00CICW5UQ?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-04T00:34:58.648Z</updated>
-        <summary type="html"><![CDATA[2013-06-19]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
