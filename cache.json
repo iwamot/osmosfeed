@@ -281,51 +281,6 @@
           "publishedOn": "2021-09-08T00:34:44.720Z",
           "wordCount": 511,
           "title": "［和書］図解即戦力 インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4295011290?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-04-23",
-          "link": "https://www.amazon.co.jp/dp/4295011290?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-07T00:34:10.799Z",
-          "wordCount": 757,
-          "title": "［和書］CentOS 8実践ガイド[サーバ構築編] (impress top gear)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4297119447?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-04-14",
-          "link": "https://www.amazon.co.jp/dp/4297119447?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-07T00:34:10.581Z",
-          "wordCount": 930,
-          "title": "［和書］サーバ/インフラエンジニアの基本がこれ1冊でしっかり身につく本"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B08X3Z58T5?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-02-20",
-          "link": "https://www.amazon.co.jp/dp/B08X3Z58T5?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-07T00:34:10.363Z",
-          "wordCount": 639,
-          "title": "［和書］これからの時代はＩＴエンジニア！　自分が子供が孫がなりたい仕事ランキング１位[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4761527722?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-06-05",
-          "link": "https://www.amazon.co.jp/dp/4761527722?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-07T00:34:10.154Z",
-          "wordCount": 720,
-          "title": "［和書］土木の仕事ガイドブック :日常をつくるプロフェッショナル"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B097KXPHFP?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-06-19",
-          "link": "https://www.amazon.co.jp/dp/B097KXPHFP?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-07T00:34:09.916Z",
-          "wordCount": 679,
-          "title": "［和書］最短3時間で覚えるLinuxシェルスクリプト[Kindle版]"
         }
       ]
     },
