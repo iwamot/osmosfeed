@@ -202,15 +202,6 @@
           "publishedOn": "2021-09-09T00:37:56.627Z",
           "wordCount": 705,
           "title": "［和書］New Relic実践入門 監視からオブザーバビリティへの変革[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4863543565?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2022-01-20、予約可",
-          "link": "https://www.amazon.co.jp/dp/4863543565?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:44.933Z",
-          "wordCount": 480,
-          "title": "［和書］AWS Deep Racer"
         }
       ]
     },
@@ -219,6 +210,42 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/4295011290?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-04-23",
+          "link": "https://www.amazon.co.jp/dp/4295011290?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-08T00:41:04.121Z",
+          "wordCount": 749,
+          "title": "［和書］CentOS 8実践ガイド[サーバ構築編] (impress top gear)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/4297119447?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-04-14",
+          "link": "https://www.amazon.co.jp/dp/4297119447?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-08T00:41:03.894Z",
+          "wordCount": 974,
+          "title": "［和書］サーバ/インフラエンジニアの基本がこれ1冊でしっかり身につく本"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/4761527722?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-06-05",
+          "link": "https://www.amazon.co.jp/dp/4761527722?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-08T00:41:03.679Z",
+          "wordCount": 734,
+          "title": "［和書］土木の仕事ガイドブック :日常をつくるプロフェッショナル"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B097KXPHFP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-06-19",
+          "link": "https://www.amazon.co.jp/dp/B097KXPHFP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-08T00:41:03.423Z",
+          "wordCount": 639,
+          "title": "［和書］最短3時間で覚えるLinuxシェルスクリプト[Kindle版]"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B08WWHBF1J?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -272,15 +299,6 @@
           "publishedOn": "2021-09-10T00:40:21.343Z",
           "wordCount": 441,
           "title": "［和書］HERO ―東京をつくった土木エンジニアたちの物語―"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4297122898?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-21、予約可",
-          "link": "https://www.amazon.co.jp/dp/4297122898?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:44.720Z",
-          "wordCount": 511,
-          "title": "［和書］図解即戦力 インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書"
         }
       ]
     },
@@ -432,150 +450,6 @@
           "publishedOn": "2021-09-11T00:35:58.249Z",
           "wordCount": 718,
           "title": "［和書］KING CRIMSON'S MUSIC,HISTORY & CONNECTION　キング・クリムゾンと変革の時代　A Guide Book for Progressive Rock (角川学芸出版単行本)[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B07X5GK2JJ?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2019-11-08",
-          "link": "https://www.amazon.co.jp/dp/B07X5GK2JJ?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:49.439Z",
-          "wordCount": 2011,
-          "title": "［DVD］In The Court Of The Crimson King (50th Anniversary Edition) [Blu-ray]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B0937XHN2L?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-06-23",
-          "link": "https://www.amazon.co.jp/dp/B0937XHN2L?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:48.831Z",
-          "wordCount": 706,
-          "title": "［音楽］濃縮キング・クリムゾン~ベスト・オブ・キング・クリムゾン1969-2003(SHM-CD Ver.) 愛蔵盤"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4401649028?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2020-05-28",
-          "link": "https://www.amazon.co.jp/dp/4401649028?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:48.660Z",
-          "wordCount": 788,
-          "title": "［和書］いとしの21馬鹿たち どうしてプログレを好きになってしまったんだろう第二番"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/490948373X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2020-10-28",
-          "link": "https://www.amazon.co.jp/dp/490948373X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:48.502Z",
-          "wordCount": 723,
-          "title": "［和書］キング・クリムゾン全史 混沌と錬修の五十年 (ele-king books)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B08FP9R53Z?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2020-09-15",
-          "link": "https://www.amazon.co.jp/dp/B08FP9R53Z?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:48.262Z",
-          "wordCount": 648,
-          "title": "［和書］レコード・コレクターズ 2020年 10月号"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B0788YKWXH?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2018-01-15",
-          "link": "https://www.amazon.co.jp/dp/B0788YKWXH?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:47.914Z",
-          "wordCount": 689,
-          "title": "［和書］レコード・コレクターズ 2018年 2月号"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B00CICW6IW?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2013-06-19",
-          "link": "https://www.amazon.co.jp/dp/B00CICW6IW?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:47.749Z",
-          "wordCount": 1000,
-          "title": "［DVD］レッド~40周年記念エディション DVDオーディオ+K2HD HQCD"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4401643267?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2016-12-21",
-          "link": "https://www.amazon.co.jp/dp/4401643267?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:47.535Z",
-          "wordCount": 744,
-          "title": "［和書］どうしてプログレを好きになってしまったんだろう"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09639DT9X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-06-04",
-          "link": "https://www.amazon.co.jp/dp/B09639DT9X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:47.344Z",
-          "wordCount": 919,
-          "title": "［音楽］Cavalcade [輸入アナログ盤 / 180g重量盤 / 1LP / 通常盤] (RT0212LP)_1334 [Analog]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B00OBEOL60?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2014-11-19",
-          "link": "https://www.amazon.co.jp/dp/B00OBEOL60?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:47.130Z",
-          "wordCount": 605,
-          "title": "［DVD］“イエス・サード・アルバム\"&“究極\"完全再現ライヴ~ライヴ・イン・ブリストル 2014【DVD/日本語字幕付】"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B01N2NEA8N?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2017-01-14",
-          "link": "https://www.amazon.co.jp/dp/B01N2NEA8N?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:46.923Z",
-          "wordCount": 673,
-          "title": "［和書］レコード・コレクターズ 2017年 2月号"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B00OBEOLHY?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2014-11-19",
-          "link": "https://www.amazon.co.jp/dp/B00OBEOLHY?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:46.599Z",
-          "wordCount": 732,
-          "title": "［DVD］“イエス・サード・アルバム\"&“究極\"完全再現ライヴ~ライヴ・イン・ブリストル 2014【初回限定盤DVD+2CD/日本語字幕付】"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B00CICW6FK?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2013-06-19",
-          "link": "https://www.amazon.co.jp/dp/B00CICW6FK?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:46.400Z",
-          "wordCount": 1663,
-          "title": "［DVD］アイランズ~40周年記念エディション DVDオーディオ+K2HD HQCD"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B00OBEOLFQ?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2014-11-19",
-          "link": "https://www.amazon.co.jp/dp/B00OBEOLFQ?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:46.219Z",
-          "wordCount": 769,
-          "title": "［DVD］“イエス・サード・アルバム\"&“究極\"完全再現ライヴ~ライヴ・イン・ブリストル 2014【初回限定盤Blu-ray+2CD/日本語字幕付】"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4401644093?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2017-01-25",
-          "link": "https://www.amazon.co.jp/dp/4401644093?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:45.942Z",
-          "wordCount": 701,
-          "title": "［和書］THE DIG Special Edition キング・クリムゾン ライヴ・イヤーズ 1969-1984 (シンコー・ミュージックMOOK)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B00OBEOL6A?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2014-11-19",
-          "link": "https://www.amazon.co.jp/dp/B00OBEOL6A?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:45.760Z",
-          "wordCount": 739,
-          "title": "［DVD］“イエス・サード・アルバム\"&“究極\"完全再現ライヴ~ライヴ・イン・ブリストル 2014【Blu-ray/日本語字幕付】"
         }
       ]
     },
@@ -763,69 +637,6 @@
           "publishedOn": "2021-09-09T00:37:56.908Z",
           "wordCount": 943,
           "title": "［音楽］【Amazon.co.jp限定】OPUS ~ALL TIME BEST 1975-2012~ (通常盤) (特典:メガジャケ付)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09771LG1S?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-06-17",
-          "link": "https://www.amazon.co.jp/dp/B09771LG1S?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:49.227Z",
-          "wordCount": 1034,
-          "title": "［和書］モーニング 2021年29号 [2021年6月17日発売] [雑誌][Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B097MNKS2F?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-06-24",
-          "link": "https://www.amazon.co.jp/dp/B097MNKS2F?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:49.035Z",
-          "wordCount": 1036,
-          "title": "［和書］モーニング 2021年30号 [2021年6月24日発売] [雑誌][Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B08KWSJ5MR?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-03-21",
-          "link": "https://www.amazon.co.jp/dp/B08KWSJ5MR?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:48.102Z",
-          "wordCount": 784,
-          "title": "［音楽］A LONG VACATION 40th Anniversary Edition (通常盤) (特典なし)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B08VX8Q39M?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-03-31",
-          "link": "https://www.amazon.co.jp/dp/B08VX8Q39M?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:46.764Z",
-          "wordCount": 558,
-          "title": "［音楽］【Amazon.co.jp限定】ナイアガラトライアングルVol.1 30th Anniversary Edition (メガジャケ付)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B08SGY2K6C?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-04-28",
-          "link": "https://www.amazon.co.jp/dp/B08SGY2K6C?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:45.537Z",
-          "wordCount": 828,
-          "title": "［音楽］DOWN TOWN/がんばれないよ 初回生産限定盤SP2(特典なし)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B097SK4YGL?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-19",
-          "link": "https://www.amazon.co.jp/dp/B097SK4YGL?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:45.323Z",
-          "wordCount": 672,
-          "title": "［和書］ミュージック・マガジン 2021年 8月号"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B08NR5Q5Z6?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-01-27",
-          "link": "https://www.amazon.co.jp/dp/B08NR5Q5Z6?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-08T00:34:45.144Z",
-          "wordCount": 576,
-          "title": "［音楽］リハビリテーション (CDSOL-1954/解説:中村俊夫)"
         }
       ]
     }

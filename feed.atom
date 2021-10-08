@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-10-07T00:40:08.927Z</updated>
+    <updated>2021-10-08T00:41:04.788Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［和書］CentOS 8実践ガイド[サーバ構築編] (impress top gear)]]></title>
+        <id>https://www.amazon.co.jp/dp/4295011290?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4295011290?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-08T00:41:04.121Z</updated>
+        <summary type="html"><![CDATA[2021-04-23]]></summary>
+        <author>
+            <name>「インフラエンジニア」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］サーバ/インフラエンジニアの基本がこれ1冊でしっかり身につく本]]></title>
+        <id>https://www.amazon.co.jp/dp/4297119447?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4297119447?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-08T00:41:03.894Z</updated>
+        <summary type="html"><![CDATA[2021-04-14]]></summary>
+        <author>
+            <name>「インフラエンジニア」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］土木の仕事ガイドブック :日常をつくるプロフェッショナル]]></title>
+        <id>https://www.amazon.co.jp/dp/4761527722?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4761527722?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-08T00:41:03.679Z</updated>
+        <summary type="html"><![CDATA[2021-06-05]]></summary>
+        <author>
+            <name>「インフラエンジニア」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］最短3時間で覚えるLinuxシェルスクリプト[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B097KXPHFP?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B097KXPHFP?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-08T00:41:03.423Z</updated>
+        <summary type="html"><![CDATA[2021-06-19]]></summary>
+        <author>
+            <name>「インフラエンジニア」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［和書］モーニング 2021年36・37号 [2021年8月5日発売] [雑誌][Kindle版]]]></title>
         <id>https://www.amazon.co.jp/dp/B09BNFJQJB?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -644,256 +684,6 @@
         <summary type="html"><![CDATA[2021-09-24、予約可]]></summary>
         <author>
             <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［DVD］In The Court Of The Crimson King (50th Anniversary Edition) [Blu-ray]]]></title>
-        <id>https://www.amazon.co.jp/dp/B07X5GK2JJ?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B07X5GK2JJ?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:49.439Z</updated>
-        <summary type="html"><![CDATA[2019-11-08]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］モーニング 2021年29号 [2021年6月17日発売] [雑誌][Kindle版]]]></title>
-        <id>https://www.amazon.co.jp/dp/B09771LG1S?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B09771LG1S?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:49.227Z</updated>
-        <summary type="html"><![CDATA[2021-06-17]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］モーニング 2021年30号 [2021年6月24日発売] [雑誌][Kindle版]]]></title>
-        <id>https://www.amazon.co.jp/dp/B097MNKS2F?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B097MNKS2F?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:49.035Z</updated>
-        <summary type="html"><![CDATA[2021-06-24]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［音楽］濃縮キング・クリムゾン~ベスト・オブ・キング・クリムゾン1969-2003(SHM-CD Ver.) 愛蔵盤]]></title>
-        <id>https://www.amazon.co.jp/dp/B0937XHN2L?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B0937XHN2L?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:48.831Z</updated>
-        <summary type="html"><![CDATA[2021-06-23]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］いとしの21馬鹿たち どうしてプログレを好きになってしまったんだろう第二番]]></title>
-        <id>https://www.amazon.co.jp/dp/4401649028?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4401649028?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:48.660Z</updated>
-        <summary type="html"><![CDATA[2020-05-28]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］キング・クリムゾン全史 混沌と錬修の五十年 (ele-king books)]]></title>
-        <id>https://www.amazon.co.jp/dp/490948373X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/490948373X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:48.502Z</updated>
-        <summary type="html"><![CDATA[2020-10-28]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］レコード・コレクターズ 2020年 10月号]]></title>
-        <id>https://www.amazon.co.jp/dp/B08FP9R53Z?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B08FP9R53Z?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:48.262Z</updated>
-        <summary type="html"><![CDATA[2020-09-15]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［音楽］A LONG VACATION 40th Anniversary Edition (通常盤) (特典なし)]]></title>
-        <id>https://www.amazon.co.jp/dp/B08KWSJ5MR?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B08KWSJ5MR?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:48.102Z</updated>
-        <summary type="html"><![CDATA[2021-03-21]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］レコード・コレクターズ 2018年 2月号]]></title>
-        <id>https://www.amazon.co.jp/dp/B0788YKWXH?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B0788YKWXH?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:47.914Z</updated>
-        <summary type="html"><![CDATA[2018-01-15]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［DVD］レッド~40周年記念エディション DVDオーディオ+K2HD HQCD]]></title>
-        <id>https://www.amazon.co.jp/dp/B00CICW6IW?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B00CICW6IW?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:47.749Z</updated>
-        <summary type="html"><![CDATA[2013-06-19]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］どうしてプログレを好きになってしまったんだろう]]></title>
-        <id>https://www.amazon.co.jp/dp/4401643267?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4401643267?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:47.535Z</updated>
-        <summary type="html"><![CDATA[2016-12-21]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［音楽］Cavalcade [輸入アナログ盤 / 180g重量盤 / 1LP / 通常盤] (RT0212LP)_1334 [Analog]]]></title>
-        <id>https://www.amazon.co.jp/dp/B09639DT9X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B09639DT9X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:47.344Z</updated>
-        <summary type="html"><![CDATA[2021-06-04]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［DVD］“イエス・サード・アルバム"&“究極"完全再現ライヴ~ライヴ・イン・ブリストル 2014【DVD/日本語字幕付】]]></title>
-        <id>https://www.amazon.co.jp/dp/B00OBEOL60?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B00OBEOL60?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:47.130Z</updated>
-        <summary type="html"><![CDATA[2014-11-19]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］レコード・コレクターズ 2017年 2月号]]></title>
-        <id>https://www.amazon.co.jp/dp/B01N2NEA8N?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B01N2NEA8N?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:46.923Z</updated>
-        <summary type="html"><![CDATA[2017-01-14]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［音楽］【Amazon.co.jp限定】ナイアガラトライアングルVol.1 30th Anniversary Edition (メガジャケ付)]]></title>
-        <id>https://www.amazon.co.jp/dp/B08VX8Q39M?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B08VX8Q39M?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:46.764Z</updated>
-        <summary type="html"><![CDATA[2021-03-31]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［DVD］“イエス・サード・アルバム"&“究極"完全再現ライヴ~ライヴ・イン・ブリストル 2014【初回限定盤DVD+2CD/日本語字幕付】]]></title>
-        <id>https://www.amazon.co.jp/dp/B00OBEOLHY?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B00OBEOLHY?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:46.599Z</updated>
-        <summary type="html"><![CDATA[2014-11-19]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［DVD］アイランズ~40周年記念エディション DVDオーディオ+K2HD HQCD]]></title>
-        <id>https://www.amazon.co.jp/dp/B00CICW6FK?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B00CICW6FK?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:46.400Z</updated>
-        <summary type="html"><![CDATA[2013-06-19]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［DVD］“イエス・サード・アルバム"&“究極"完全再現ライヴ~ライヴ・イン・ブリストル 2014【初回限定盤Blu-ray+2CD/日本語字幕付】]]></title>
-        <id>https://www.amazon.co.jp/dp/B00OBEOLFQ?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B00OBEOLFQ?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:46.219Z</updated>
-        <summary type="html"><![CDATA[2014-11-19]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］THE DIG Special Edition キング・クリムゾン ライヴ・イヤーズ 1969-1984 (シンコー・ミュージックMOOK)]]></title>
-        <id>https://www.amazon.co.jp/dp/4401644093?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4401644093?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:45.942Z</updated>
-        <summary type="html"><![CDATA[2017-01-25]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［DVD］“イエス・サード・アルバム"&“究極"完全再現ライヴ~ライヴ・イン・ブリストル 2014【Blu-ray/日本語字幕付】]]></title>
-        <id>https://www.amazon.co.jp/dp/B00OBEOL6A?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B00OBEOL6A?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:45.760Z</updated>
-        <summary type="html"><![CDATA[2014-11-19]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［音楽］DOWN TOWN/がんばれないよ 初回生産限定盤SP2(特典なし)]]></title>
-        <id>https://www.amazon.co.jp/dp/B08SGY2K6C?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B08SGY2K6C?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:45.537Z</updated>
-        <summary type="html"><![CDATA[2021-04-28]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］ミュージック・マガジン 2021年 8月号]]></title>
-        <id>https://www.amazon.co.jp/dp/B097SK4YGL?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B097SK4YGL?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:45.323Z</updated>
-        <summary type="html"><![CDATA[2021-07-19]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［音楽］リハビリテーション (CDSOL-1954/解説:中村俊夫)]]></title>
-        <id>https://www.amazon.co.jp/dp/B08NR5Q5Z6?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B08NR5Q5Z6?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:45.144Z</updated>
-        <summary type="html"><![CDATA[2021-01-27]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］AWS Deep Racer]]></title>
-        <id>https://www.amazon.co.jp/dp/4863543565?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4863543565?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:44.933Z</updated>
-        <summary type="html"><![CDATA[2022-01-20、予約可]]></summary>
-        <author>
-            <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］図解即戦力 インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書]]></title>
-        <id>https://www.amazon.co.jp/dp/4297122898?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4297122898?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-08T00:34:44.720Z</updated>
-        <summary type="html"><![CDATA[2021-09-21、予約可]]></summary>
-        <author>
-            <name>「インフラエンジニア」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
