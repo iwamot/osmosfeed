@@ -220,6 +220,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4886142664?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-28",
+          "link": "https://www.amazon.co.jp/dp/4886142664?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-11T00:39:32.896Z",
+          "wordCount": 595,
+          "title": "［和書］HERO ―東京をつくった土木エンジニアたちの物語―"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4297122898?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-09-21",
@@ -585,15 +594,6 @@
           "publishedOn": "2021-09-15T00:36:47.665Z",
           "wordCount": 587,
           "title": "［音楽］ディシプリン スティーヴン・ウイルソン・ステレオ・ミックス (MQA-CD)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2018-11-24",
-          "link": "https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-11T00:35:58.249Z",
-          "wordCount": 718,
-          "title": "［和書］KING CRIMSON'S MUSIC,HISTORY & CONNECTION　キング・クリムゾンと変革の時代　A Guide Book for Progressive Rock (角川学芸出版単行本)[Kindle版]"
         }
       ]
     },
@@ -754,33 +754,6 @@
           "publishedOn": "2021-09-14T00:38:15.033Z",
           "wordCount": 1028,
           "title": "［和書］モーニング 2021年33号 [2021年7月15日発売] [雑誌][Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B08WQLQCGM?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-02-26",
-          "link": "https://www.amazon.co.jp/dp/B08WQLQCGM?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-11T00:35:58.625Z",
-          "wordCount": 376,
-          "title": "［音楽］Futures (カセットテープ) [B3SRTAPE047]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4866471581?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2022-03-11、予約可",
-          "link": "https://www.amazon.co.jp/dp/4866471581?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-11T00:35:58.454Z",
-          "wordCount": 614,
-          "title": "［和書］ジェフ・ポーカロ その人生と音楽(仮) It's About Time: Jeff Porcaro - The Man and His Music"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09F1FT2KN?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-11-24、予約可",
-          "link": "https://www.amazon.co.jp/dp/B09F1FT2KN?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-11T00:35:57.985Z",
-          "wordCount": 601,
-          "title": "［音楽］あまく危険な香り / 透明なひとときを [Analog]"
         }
       ]
     }
