@@ -193,24 +193,6 @@
           "publishedOn": "2021-09-17T00:40:44.517Z",
           "wordCount": 542,
           "title": "［和書］誰でも3ステップで簡単に節約！ AWS EC2 自動起動・自動停止の設定方法[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4798064394?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-31",
-          "link": "https://www.amazon.co.jp/dp/4798064394?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-12T00:38:35.496Z",
-          "wordCount": 698,
-          "title": "［和書］Python 実践データ加工/可視化 100本ノック"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09C7H6YHR?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-27、予約可",
-          "link": "https://www.amazon.co.jp/dp/B09C7H6YHR?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-12T00:38:35.235Z",
-          "wordCount": 635,
-          "title": "［和書］AWSではじめる クラウド開発入門[Kindle版]"
         }
       ]
     },
@@ -325,6 +307,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%22King+Crimson%22&omit=fgs",
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2018-11-24",
+          "link": "https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-12T00:41:40.660Z",
+          "wordCount": 738,
+          "title": "［和書］KING CRIMSON'S MUSIC,HISTORY & CONNECTION　キング・クリムゾンと変革の時代　A Guide Book for Progressive Rock (角川学芸出版単行本)[Kindle版]"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B00CICW6IW?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -602,6 +593,51 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09F1FT2KN?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-11-24、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09F1FT2KN?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-12T00:41:41.312Z",
+          "wordCount": 549,
+          "title": "［音楽］あまく危険な香り / 透明なひとときを [Analog]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-18",
+          "link": "https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-12T00:41:41.176Z",
+          "wordCount": 820,
+          "title": "［音楽］ARTISAN (30th Anniversary Edition)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/4866471581?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2022-03-11、予約可",
+          "link": "https://www.amazon.co.jp/dp/4866471581?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-12T00:41:40.969Z",
+          "wordCount": 592,
+          "title": "［和書］ジェフ・ポーカロ その人生と音楽(仮) It's About Time: Jeff Porcaro - The Man and His Music"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B08WQLQCGM?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-02-26",
+          "link": "https://www.amazon.co.jp/dp/B08WQLQCGM?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-12T00:41:40.813Z",
+          "wordCount": 373,
+          "title": "［音楽］Futures (カセットテープ) [B3SRTAPE047]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09J4RW6CY?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-14、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09J4RW6CY?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-12T00:41:40.456Z",
+          "wordCount": 809,
+          "title": "［和書］モーニング 2021年46号 [2021年10月14日発売] [雑誌][Kindle版]"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B08SGY2K6C?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,

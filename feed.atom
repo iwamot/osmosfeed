@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-10-11T00:39:32.922Z</updated>
+    <updated>2021-10-12T00:41:41.341Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［音楽］あまく危険な香り / 透明なひとときを [Analog]]]></title>
+        <id>https://www.amazon.co.jp/dp/B09F1FT2KN?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B09F1FT2KN?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-12T00:41:41.312Z</updated>
+        <summary type="html"><![CDATA[2021-11-24、予約可]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［音楽］ARTISAN (30th Anniversary Edition)]]></title>
+        <id>https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B096G3R1WW?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-12T00:41:41.176Z</updated>
+        <summary type="html"><![CDATA[2021-08-18]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］ジェフ・ポーカロ その人生と音楽(仮) It's About Time: Jeff Porcaro - The Man and His Music]]></title>
+        <id>https://www.amazon.co.jp/dp/4866471581?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4866471581?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-12T00:41:40.969Z</updated>
+        <summary type="html"><![CDATA[2022-03-11、予約可]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［音楽］Futures (カセットテープ) [B3SRTAPE047]]]></title>
+        <id>https://www.amazon.co.jp/dp/B08WQLQCGM?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B08WQLQCGM?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-12T00:41:40.813Z</updated>
+        <summary type="html"><![CDATA[2021-02-26]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］KING CRIMSON'S MUSIC,HISTORY & CONNECTION　キング・クリムゾンと変革の時代　A Guide Book for Progressive Rock (角川学芸出版単行本)[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B07KPVXF5M?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-12T00:41:40.660Z</updated>
+        <summary type="html"><![CDATA[2018-11-24]]></summary>
+        <author>
+            <name>「"King Crimson"」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］モーニング 2021年46号 [2021年10月14日発売] [雑誌][Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B09J4RW6CY?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B09J4RW6CY?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-12T00:41:40.456Z</updated>
+        <summary type="html"><![CDATA[2021-10-14、予約可]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［和書］HERO ―東京をつくった土木エンジニアたちの物語―]]></title>
         <id>https://www.amazon.co.jp/dp/4886142664?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -794,26 +854,6 @@
         <summary type="html"><![CDATA[2021-07-15]]></summary>
         <author>
             <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］Python 実践データ加工/可視化 100本ノック]]></title>
-        <id>https://www.amazon.co.jp/dp/4798064394?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4798064394?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-12T00:38:35.496Z</updated>
-        <summary type="html"><![CDATA[2021-07-31]]></summary>
-        <author>
-            <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］AWSではじめる クラウド開発入門[Kindle版]]]></title>
-        <id>https://www.amazon.co.jp/dp/B09C7H6YHR?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B09C7H6YHR?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-12T00:38:35.235Z</updated>
-        <summary type="html"><![CDATA[2021-09-27、予約可]]></summary>
-        <author>
-            <name>「AWS」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
