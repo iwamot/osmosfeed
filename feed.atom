@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-10-16T00:43:35.974Z</updated>
+    <updated>2021-10-17T00:38:34.445Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
@@ -892,26 +892,6 @@
         <link href="https://www.amazon.co.jp/dp/B09GFB67X1?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
         <updated>2021-09-18T00:35:32.022Z</updated>
         <summary type="html"><![CDATA[2021-09-24、予約可]]></summary>
-        <author>
-            <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［音楽］I want to hold your hand [国内アナログ盤 / 7インチ] (HYDRA-023) [Analog]]]></title>
-        <id>https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-17T00:40:44.704Z</updated>
-        <summary type="html"><![CDATA[2021-08-27]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］誰でも3ステップで簡単に節約！ AWS EC2 自動起動・自動停止の設定方法[Kindle版]]]></title>
-        <id>https://www.amazon.co.jp/dp/B09GFJ4CCV?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B09GFJ4CCV?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-17T00:40:44.517Z</updated>
-        <summary type="html"><![CDATA[2021-09-15]]></summary>
         <author>
             <name>「AWS」＠リリースチェッカー</name>
         </author>
