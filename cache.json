@@ -139,33 +139,6 @@
           "publishedOn": "2021-09-21T00:37:50.584Z",
           "wordCount": 592,
           "title": "［和書］実践 AWSデータサイエンス ―エンドツーエンドのMLOpsパイプライン実装"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09FX7YP29?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-16",
-          "link": "https://www.amazon.co.jp/dp/B09FX7YP29?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-19T00:37:28.401Z",
-          "wordCount": 831,
-          "title": "［和書］図解即戦力　インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4297122677?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-27、予約可",
-          "link": "https://www.amazon.co.jp/dp/4297122677?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-19T00:37:28.033Z",
-          "wordCount": 713,
-          "title": "［和書］1日1問、半年以内に習得 シェル・ワンライナー160本ノック"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/429501267X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-10-19、予約可",
-          "link": "https://www.amazon.co.jp/dp/429501267X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-19T00:37:27.809Z",
-          "wordCount": 586,
-          "title": "［和書］プログラマーなら知っておきたい40のアルゴリズム 定番・最新系をPythonで実践！ (impress top gear)"
         }
       ]
     },
@@ -603,15 +576,6 @@
           "publishedOn": "2021-09-20T00:40:50.983Z",
           "wordCount": 477,
           "title": "［DVD］クリムゾン・キングの宮殿~40周年記念エディション DVDオーディオ+K2HD HQCD"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-08",
-          "link": "https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-19T00:37:28.189Z",
-          "wordCount": 519,
-          "title": "［和書］バンド・スコア　キング・クリムゾン「クリムゾン・キングの宮殿」【新装版】"
         }
       ]
     },
@@ -620,6 +584,33 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09GFDJ8JW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-22",
+          "link": "https://www.amazon.co.jp/dp/B09GFDJ8JW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-19T00:39:34.744Z",
+          "wordCount": 1059,
+          "title": "［和書］モーニング 2021年43号 [2021年9月22日発売] [雑誌][Kindle版]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-18",
+          "link": "https://www.amazon.co.jp/dp/B096G3PDTP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-19T00:39:33.433Z",
+          "wordCount": 868,
+          "title": "［音楽］【Amazon.co.jp限定】ARTISAN (30th Anniversary Edition) (メガジャケ付)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09J9YHX8K?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-27、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09J9YHX8K?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-19T00:39:33.048Z",
+          "wordCount": 583,
+          "title": "［和書］風街とデラシネ　作詞家・松本隆の50年 (角川書店単行本)[Kindle版]"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B099NMZNDB?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
