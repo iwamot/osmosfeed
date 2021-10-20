@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-10-19T00:39:34.785Z</updated>
+    <updated>2021-10-20T00:39:28.485Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［和書］バンド・スコア　キング・クリムゾン「クリムゾン・キングの宮殿」【新装版】]]></title>
+        <id>https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-20T00:39:28.461Z</updated>
+        <summary type="html"><![CDATA[2021-09-08]]></summary>
+        <author>
+            <name>「"King Crimson"」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］プログラマーなら知っておきたい40のアルゴリズム 定番・最新系をPythonで実践! (impress top gear)]]></title>
+        <id>https://www.amazon.co.jp/dp/429501267X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/429501267X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-20T00:39:28.221Z</updated>
+        <summary type="html"><![CDATA[2021-10-19]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］図解! AWSのツボとコツがゼッタイにわかる本]]></title>
+        <id>https://www.amazon.co.jp/dp/479806534X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/479806534X?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-20T00:39:27.718Z</updated>
+        <summary type="html"><![CDATA[2021-12-18、予約可]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［和書］モーニング 2021年43号 [2021年9月22日発売] [雑誌][Kindle版]]]></title>
         <id>https://www.amazon.co.jp/dp/B09GFDJ8JW?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -824,36 +854,6 @@
         <summary type="html"><![CDATA[2021-10-15、予約可]]></summary>
         <author>
             <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［DVD］クリムゾン・キングの宮殿~40周年記念エディション DVDオーディオ+K2HD HQCD]]></title>
-        <id>https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-20T00:40:50.983Z</updated>
-        <summary type="html"><![CDATA[2013-06-19]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］なつ満喫[Kindle版]]]></title>
-        <id>https://www.amazon.co.jp/dp/B09D2XHJ9C?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B09D2XHJ9C?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-20T00:40:50.749Z</updated>
-        <summary type="html"><![CDATA[2021-08-18]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］IT資格試験に英語版で合格する方法とメリット: CISA・Security+・ITILに英語で合格した著者が教える！グローバルな環境で武器になる英語での国際資格取得[Kindle版]]]></title>
-        <id>https://www.amazon.co.jp/dp/B09CTVXHNQ?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B09CTVXHNQ?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-20T00:40:50.528Z</updated>
-        <summary type="html"><![CDATA[2021-08-16]]></summary>
-        <author>
-            <name>「インフラエンジニア」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,24 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/429501267X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-19",
+          "link": "https://www.amazon.co.jp/dp/429501267X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-20T00:39:28.221Z",
+          "wordCount": 656,
+          "title": "［和書］プログラマーなら知っておきたい40のアルゴリズム 定番・最新系をPythonで実践! (impress top gear)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/479806534X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-12-18、予約可",
+          "link": "https://www.amazon.co.jp/dp/479806534X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-20T00:39:27.718Z",
+          "wordCount": 473,
+          "title": "［和書］図解! AWSのツボとコツがゼッタイにわかる本"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4863543565?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2022-01-20、予約可",
@@ -236,15 +254,6 @@
           "publishedOn": "2021-09-21T00:37:50.837Z",
           "wordCount": 605,
           "title": "［和書］知らないと損するSESエンジニアが年収300万円UPさせる方法[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09CTVXHNQ?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-16",
-          "link": "https://www.amazon.co.jp/dp/B09CTVXHNQ?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-20T00:40:50.528Z",
-          "wordCount": 719,
-          "title": "［和書］IT資格試験に英語版で合格する方法とメリット: CISA・Security+・ITILに英語で合格した著者が教える！グローバルな環境で武器になる英語での国際資格取得[Kindle版]"
         }
       ]
     },
@@ -253,6 +262,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%22King+Crimson%22&omit=fgs",
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-08",
+          "link": "https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-20T00:39:28.461Z",
+          "wordCount": 548,
+          "title": "［和書］バンド・スコア　キング・クリムゾン「クリムゾン・キングの宮殿」【新装版】"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B097H6FL4V?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -567,15 +585,6 @@
           "publishedOn": "2021-09-23T00:39:28.253Z",
           "wordCount": 684,
           "title": "［和書］KING CRIMSON'S MUSIC,HISTORY & CONNECTION キング・クリムゾンと変革の時代 A Guide Book for Progressive Rock"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2013-06-19",
-          "link": "https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-20T00:40:50.983Z",
-          "wordCount": 477,
-          "title": "［DVD］クリムゾン・キングの宮殿~40周年記念エディション DVDオーディオ+K2HD HQCD"
         }
       ]
     },
@@ -781,15 +790,6 @@
           "publishedOn": "2021-09-24T00:36:42.598Z",
           "wordCount": 1038,
           "title": "［和書］モーニング 2021年39号 [2021年8月26日発売] [雑誌][Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09D2XHJ9C?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-18",
-          "link": "https://www.amazon.co.jp/dp/B09D2XHJ9C?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-20T00:40:50.749Z",
-          "wordCount": 537,
-          "title": "［和書］なつ満喫[Kindle版]"
         }
       ]
     }
