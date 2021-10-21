@@ -6,6 +6,24 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/479768089X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-12-07、予約可",
+          "link": "https://www.amazon.co.jp/dp/479768089X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-21T00:43:42.056Z",
+          "wordCount": 478,
+          "title": "［和書］モデルナはなぜ3日でワクチンをつくれたのか (インターナショナル新書)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/4297123215?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-11-01、予約可",
+          "link": "https://www.amazon.co.jp/dp/4297123215?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-21T00:43:41.603Z",
+          "wordCount": 552,
+          "title": "［和書］最短突破 Microsoft Azure Fundamentals[AZ-900]合格教本"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/429501267X?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-10-19",
@@ -148,15 +166,6 @@
           "publishedOn": "2021-09-22T00:37:17.010Z",
           "wordCount": 541,
           "title": "［和書］1週間で攻略！ AWS認定ソリューションアーキテクト - アソシエイト 本番用問題集（詳解付き） AWS認定本番用問題集シリーズ[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4873119685?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-10-15、予約可",
-          "link": "https://www.amazon.co.jp/dp/4873119685?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-21T00:37:50.584Z",
-          "wordCount": 592,
-          "title": "［和書］実践 AWSデータサイエンス ―エンドツーエンドのMLOpsパイプライン実装"
         }
       ]
     },
@@ -165,6 +174,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09CTVXHNQ?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-16",
+          "link": "https://www.amazon.co.jp/dp/B09CTVXHNQ?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-21T00:43:41.858Z",
+          "wordCount": 713,
+          "title": "［和書］IT資格試験に英語版で合格する方法とメリット: CISA・Security+・ITILに英語で合格した著者が教える！グローバルな環境で武器になる英語での国際資格取得[Kindle版]"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/4886142664?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -245,15 +263,6 @@
           "publishedOn": "2021-09-22T00:37:17.561Z",
           "wordCount": 724,
           "title": "［和書］ソフトウェア品質を高める開発者テスト アジャイル時代の実践的・効率的なテストのやり方"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09D4MMN35?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-18",
-          "link": "https://www.amazon.co.jp/dp/B09D4MMN35?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-21T00:37:50.837Z",
-          "wordCount": 605,
-          "title": "［和書］知らないと損するSESエンジニアが年収300万円UPさせる方法[Kindle版]"
         }
       ]
     },
@@ -262,6 +271,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%22King+Crimson%22&omit=fgs",
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09GRRP34K?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-11-12、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09GRRP34K?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-21T00:43:42.247Z",
+          "wordCount": 626,
+          "title": "［音楽］Exaclibur V: Move, Cry, Act, Clash!"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/4401366697?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
