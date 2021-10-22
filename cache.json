@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4873119685?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-15",
+          "link": "https://www.amazon.co.jp/dp/4873119685?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-22T00:43:15.048Z",
+          "wordCount": 647,
+          "title": "［和書］実践 AWSデータサイエンス ―エンドツーエンドのMLOpsパイプライン実装"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/479768089X?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-12-07、予約可",
@@ -148,24 +157,6 @@
           "publishedOn": "2021-09-23T00:39:27.194Z",
           "wordCount": 546,
           "title": "［和書］1週間で攻略！ AWS認定クラウドプラクティショナー 325問（65問 × 5セット） 本番用問題集（詳解付き） AWS認定本番用問題集シリーズ[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4295600563?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-24、予約可",
-          "link": "https://www.amazon.co.jp/dp/4295600563?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-22T00:37:17.353Z",
-          "wordCount": 531,
-          "title": "［和書］TerraformでFargateを構築してGitHub Actionsでデプロイ！Laravel編 (技術の泉シリーズ（NextPublishing）)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09GRSQX35?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-20",
-          "link": "https://www.amazon.co.jp/dp/B09GRSQX35?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-22T00:37:17.010Z",
-          "wordCount": 541,
-          "title": "［和書］1週間で攻略！ AWS認定ソリューションアーキテクト - アソシエイト 本番用問題集（詳解付き） AWS認定本番用問題集シリーズ[Kindle版]"
         }
       ]
     },
@@ -174,6 +165,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09D4MMN35?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-18",
+          "link": "https://www.amazon.co.jp/dp/B09D4MMN35?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-22T00:43:14.524Z",
+          "wordCount": 609,
+          "title": "［和書］知らないと損するSESエンジニアが年収300万円UPさせる方法[Kindle版]"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B09CTVXHNQ?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -254,15 +254,6 @@
           "publishedOn": "2021-09-29T00:36:35.453Z",
           "wordCount": 518,
           "title": "［和書］Hell World"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4798165034?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-03-17",
-          "link": "https://www.amazon.co.jp/dp/4798165034?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-22T00:37:17.561Z",
-          "wordCount": 724,
-          "title": "［和書］ソフトウェア品質を高める開発者テスト アジャイル時代の実践的・効率的なテストのやり方"
         }
       ]
     },
@@ -611,6 +602,24 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09JWK97GC?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2022-01-19、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09JWK97GC?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-22T00:43:15.262Z",
+          "wordCount": 502,
+          "title": "［音楽］【メーカー特典あり】 Next Destination [通常盤] [CD] (メーカー特典 : 「ポストカードC」 付)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09JWKCDR4?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2022-01-19、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09JWKCDR4?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-22T00:43:14.811Z",
+          "wordCount": 540,
+          "title": "［音楽］【メーカー特典あり】 ★2形態セット商品★ Next Destination [初回限定盤A] [CD + 豪華ブックレット] & [初回限定盤B] [CD + DVD] (トリプル特典 / 初回限定盤A&初回限定盤B 同時購入特典 : 「オリジナル卓上カレンダー2022」 および 初回限定盤A購入特典 : 「ポストカードA」 および 初回限定盤B購入特典 : 「ポストカードB」 付)"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B09GFDJ8JW?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
