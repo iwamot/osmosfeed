@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-10-22T00:43:15.292Z</updated>
+    <updated>2021-10-23T00:41:28.368Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［音楽］【メーカー特典あり】 Next Destination [初回限定盤B] [CD + DVD] (メーカー特典 : 「ポストカードB」 付)]]></title>
+        <id>https://www.amazon.co.jp/dp/B09JWK8F21?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B09JWK8F21?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-23T00:41:28.320Z</updated>
+        <summary type="html"><![CDATA[2022-01-19、予約可]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］完全オリジナル問題　AWSクラウドプラクティショナー試験対策（基礎編）[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B09K49JY6Q?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B09K49JY6Q?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-23T00:41:27.842Z</updated>
+        <summary type="html"><![CDATA[2021-10-21]]></summary>
+        <author>
+            <name>「AWS」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［音楽］【メーカー特典あり】 Next Destination [通常盤] [CD] (メーカー特典 : 「ポストカードC」 付)]]></title>
         <id>https://www.amazon.co.jp/dp/B09JWK97GC?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -864,26 +884,6 @@
         <summary type="html"><![CDATA[2021-08-26]]></summary>
         <author>
             <name>「山下達郎」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］KING CRIMSON'S MUSIC,HISTORY & CONNECTION キング・クリムゾンと変革の時代 A Guide Book for Progressive Rock]]></title>
-        <id>https://www.amazon.co.jp/dp/4044004366?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4044004366?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-23T00:39:28.253Z</updated>
-        <summary type="html"><![CDATA[2018-11-24]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］1週間で攻略！ AWS認定クラウドプラクティショナー 325問（65問 × 5セット） 本番用問題集（詳解付き） AWS認定本番用問題集シリーズ[Kindle版]]]></title>
-        <id>https://www.amazon.co.jp/dp/B09GV94CM2?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B09GV94CM2?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-23T00:39:27.194Z</updated>
-        <summary type="html"><![CDATA[2021-09-21]]></summary>
-        <author>
-            <name>「AWS」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>

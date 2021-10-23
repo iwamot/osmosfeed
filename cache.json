@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B09K49JY6Q?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-21",
+          "link": "https://www.amazon.co.jp/dp/B09K49JY6Q?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-23T00:41:27.842Z",
+          "wordCount": 532,
+          "title": "［和書］完全オリジナル問題　AWSクラウドプラクティショナー試験対策（基礎編）[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4873119685?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-10-15",
@@ -148,15 +157,6 @@
           "publishedOn": "2021-09-25T00:36:17.240Z",
           "wordCount": 782,
           "title": "［和書］AWSではじめる クラウド開発入門 (Compass Data Science)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09GV94CM2?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-21",
-          "link": "https://www.amazon.co.jp/dp/B09GV94CM2?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-23T00:39:27.194Z",
-          "wordCount": 546,
-          "title": "［和書］1週間で攻略！ AWS認定クラウドプラクティショナー 325問（65問 × 5セット） 本番用問題集（詳解付き） AWS認定本番用問題集シリーズ[Kindle版]"
         }
       ]
     },
@@ -585,15 +585,6 @@
           "publishedOn": "2021-09-27T00:36:43.444Z",
           "wordCount": 726,
           "title": "［音楽］濃縮キング・クリムゾン~ベスト・オブ・キング・クリムゾン1969-2003(SHM-CD Ver.) 通常盤"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4044004366?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2018-11-24",
-          "link": "https://www.amazon.co.jp/dp/4044004366?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-23T00:39:28.253Z",
-          "wordCount": 684,
-          "title": "［和書］KING CRIMSON'S MUSIC,HISTORY & CONNECTION キング・クリムゾンと変革の時代 A Guide Book for Progressive Rock"
         }
       ]
     },
@@ -602,6 +593,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09JWK8F21?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2022-01-19、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09JWK8F21?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-23T00:41:28.320Z",
+          "wordCount": 623,
+          "title": "［音楽］【メーカー特典あり】 Next Destination [初回限定盤B] [CD + DVD] (メーカー特典 : 「ポストカードB」 付)"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B09JWK97GC?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
