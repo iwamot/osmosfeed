@@ -148,15 +148,6 @@
           "publishedOn": "2021-09-26T00:39:30.336Z",
           "wordCount": 565,
           "title": "［和書］図解即戦力 インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4839977607?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-27、予約可",
-          "link": "https://www.amazon.co.jp/dp/4839977607?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-25T00:36:17.240Z",
-          "wordCount": 782,
-          "title": "［和書］AWSではじめる クラウド開発入門 (Compass Data Science)"
         }
       ]
     },
@@ -593,6 +584,24 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09DCMTYPP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-08-26",
+          "link": "https://www.amazon.co.jp/dp/B09DCMTYPP?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-25T00:41:03.438Z",
+          "wordCount": 1041,
+          "title": "［和書］モーニング 2021年39号 [2021年8月26日発売] [雑誌][Kindle版]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09JP2FBVT?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-12-15、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09JP2FBVT?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-25T00:41:01.844Z",
+          "wordCount": 511,
+          "title": "［音楽］【Amazon.co.jp限定】クリスマス・イブ (2021 Version) (メガジャケ付)"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B09JWK8F21?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
