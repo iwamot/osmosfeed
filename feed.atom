@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-10-25T00:41:03.467Z</updated>
+    <updated>2021-10-26T00:36:58.736Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
@@ -872,16 +872,6 @@
         <link href="https://www.amazon.co.jp/dp/4815609063?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
         <updated>2021-09-27T00:36:43.203Z</updated>
         <summary type="html"><![CDATA[2021-10-22、予約可]]></summary>
-        <author>
-            <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］図解即戦力 インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書]]></title>
-        <id>https://www.amazon.co.jp/dp/4297122898?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/4297122898?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-09-26T00:39:30.336Z</updated>
-        <summary type="html"><![CDATA[2021-09-21]]></summary>
         <author>
             <name>「AWS」＠リリースチェッカー</name>
         </author>
