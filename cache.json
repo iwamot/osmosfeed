@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B09K262K4L?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-26",
+          "link": "https://www.amazon.co.jp/dp/B09K262K4L?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-27T00:37:10.430Z",
+          "wordCount": 542,
+          "title": "［和書］完全オリジナル問題　AWS認定クラウドプラクティショナー試験対策（基礎編） (完全オリジナル問題　AWSクラウドプラクティショナー試験対策)"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09K49JY6Q?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-10-21",
@@ -121,24 +130,6 @@
           "publishedOn": "2021-09-28T00:38:01.266Z",
           "wordCount": 602,
           "title": "［和書］図解即戦力 暗号と認証のしくみと理論がこれ1冊でしっかりわかる教科書"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4815607656?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-10-21、予約可",
-          "link": "https://www.amazon.co.jp/dp/4815607656?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-27T00:36:43.830Z",
-          "wordCount": 785,
-          "title": "［和書］AWSコンテナ設計・構築[本格]入門"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4815609063?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-10-22、予約可",
-          "link": "https://www.amazon.co.jp/dp/4815609063?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-27T00:36:43.203Z",
-          "wordCount": 618,
-          "title": "［和書］AWS認定資格試験テキスト&問題集 AWS認定ソリューションアーキテクト - プロフェッショナル"
         }
       ]
     },
@@ -244,6 +235,24 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%22King+Crimson%22&omit=fgs",
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09JT5MCGK?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-12-22、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09JT5MCGK?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-27T00:37:10.807Z",
+          "wordCount": 476,
+          "title": "［音楽］Happy With What You Have To Be Happy With+Level Five+ElecKtrik Live In Japan"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09JT6QCHY?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-12-22、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09JT6QCHY?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-27T00:37:10.648Z",
+          "wordCount": 490,
+          "title": "［音楽］音楽は我らが友 ライヴ・イン・ワシントン・アンド・アルバニー2021"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B09GRRP34K?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -558,15 +567,6 @@
           "publishedOn": "2021-09-28T00:38:01.537Z",
           "wordCount": 587,
           "title": "［音楽］エレメンツ 2021 ツアー・ボックス"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B0937XHN1Z?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-06-23",
-          "link": "https://www.amazon.co.jp/dp/B0937XHN1Z?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-27T00:36:43.444Z",
-          "wordCount": 726,
-          "title": "［音楽］濃縮キング・クリムゾン~ベスト・オブ・キング・クリムゾン1969-2003(SHM-CD Ver.) 通常盤"
         }
       ]
     },
@@ -799,15 +799,6 @@
           "publishedOn": "2021-09-29T00:36:34.977Z",
           "wordCount": 749,
           "title": "［和書］アコースティック・ギター・マガジン (ACOUSTIC GUITAR MAGAZINE) 2021年12月号 Autumn ISSUE Vol.90 (表紙:川崎鷹也/付録小冊子付き)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4773247428?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-10",
-          "link": "https://www.amazon.co.jp/dp/4773247428?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-27T00:36:43.625Z",
-          "wordCount": 472,
-          "title": "［和書］これならすぐに両手で弾ける! ほんとにはじめてのピアノ 【ニューミュージック編】 (楽譜)"
         }
       ]
     }
