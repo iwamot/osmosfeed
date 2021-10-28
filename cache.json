@@ -6,6 +6,24 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4815607656?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-21",
+          "link": "https://www.amazon.co.jp/dp/4815607656?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-28T00:37:38.309Z",
+          "wordCount": 906,
+          "title": "［和書］AWSコンテナ設計・構築[本格]入門"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/4815609063?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-22",
+          "link": "https://www.amazon.co.jp/dp/4815609063?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-28T00:37:38.086Z",
+          "wordCount": 1150,
+          "title": "［和書］AWS認定資格試験テキスト&問題集 AWS認定ソリューションアーキテクト - プロフェッショナル"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09K262K4L?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-10-26",
@@ -121,15 +139,6 @@
           "publishedOn": "2021-09-29T00:36:34.515Z",
           "wordCount": 520,
           "title": "［和書］DXを成功に導くクラウド活用推進ガイド CCoEベストプラクティス"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/429712307X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-24",
-          "link": "https://www.amazon.co.jp/dp/429712307X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-28T00:38:01.266Z",
-          "wordCount": 602,
-          "title": "［和書］図解即戦力 暗号と認証のしくみと理論がこれ1冊でしっかりわかる教科書"
         }
       ]
     },
@@ -558,15 +567,6 @@
           "publishedOn": "2021-09-29T00:36:35.232Z",
           "wordCount": 1438,
           "title": "［音楽］Elements Tour Box 2021"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-22",
-          "link": "https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-28T00:38:01.537Z",
-          "wordCount": 587,
-          "title": "［音楽］エレメンツ 2021 ツアー・ボックス"
         }
       ]
     },
@@ -575,6 +575,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/4773247428?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-10",
+          "link": "https://www.amazon.co.jp/dp/4773247428?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-28T00:37:40.227Z",
+          "wordCount": 480,
+          "title": "［和書］これならすぐに両手で弾ける! ほんとにはじめてのピアノ 【ニューミュージック編】 (楽譜)"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B09DCMTYPP?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
