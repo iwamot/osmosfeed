@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B09J49BGDW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-18",
+          "link": "https://www.amazon.co.jp/dp/B09J49BGDW?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-29T00:36:00.820Z",
+          "wordCount": 634,
+          "title": "［和書］Software Design (ソフトウェアデザイン) 2021年11月号 [雑誌][Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4815607656?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-10-21",
@@ -121,24 +130,6 @@
           "publishedOn": "2021-09-30T00:41:27.297Z",
           "wordCount": 557,
           "title": "［和書］1週間で攻略！AWS 認定データ分析 – 専門知識 本番用問題集 140問（65問 × 2セット + 10問） 詳解付き AWS認定本番用問題集シリーズ[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09HBWHQ7R?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-27",
-          "link": "https://www.amazon.co.jp/dp/B09HBWHQ7R?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-29T00:36:34.735Z",
-          "wordCount": 551,
-          "title": "［和書］1週間で攻略！AWS 認定機械学習 – 専門知識 本番用問題集 130問（65問 × 2セット） 詳解付き AWS認定本番用問題集シリーズ[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4296070150?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-11-11、予約可",
-          "link": "https://www.amazon.co.jp/dp/4296070150?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-29T00:36:34.515Z",
-          "wordCount": 520,
-          "title": "［和書］DXを成功に導くクラウド活用推進ガイド CCoEベストプラクティス"
         }
       ]
     },
@@ -147,6 +138,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/4815609209?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-12-11、予約可",
+          "link": "https://www.amazon.co.jp/dp/4815609209?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-29T00:36:00.595Z",
+          "wordCount": 625,
+          "title": "［和書］インフラ/ネットワークエンジニアのためのネットワーク「動作試験」入門"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B09D4MMN35?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -227,15 +227,6 @@
           "publishedOn": "2021-09-30T00:41:27.544Z",
           "wordCount": 800,
           "title": "［和書］New Relic実践入門 監視からオブザーバビリティへの変革[Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-30",
-          "link": "https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-29T00:36:35.453Z",
-          "wordCount": 518,
-          "title": "［和書］Hell World"
         }
       ]
     },
@@ -244,6 +235,24 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%22King+Crimson%22&omit=fgs",
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-22",
+          "link": "https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-29T00:36:01.458Z",
+          "wordCount": 669,
+          "title": "［音楽］エレメンツ 2021 ツアー・ボックス"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2013-06-19",
+          "link": "https://www.amazon.co.jp/dp/B00CICW68W?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-29T00:36:01.155Z",
+          "wordCount": 481,
+          "title": "［DVD］クリムゾン・キングの宮殿~40周年記念エディション DVDオーディオ+K2HD HQCD"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B09JT5MCGK?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
@@ -558,15 +567,6 @@
           "publishedOn": "2021-10-02T00:37:22.506Z",
           "wordCount": 2001,
           "title": "［DVD］暗黒の世界~40周年記念エディション DVDオーディオ+K2HD HQCD"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-07-23",
-          "link": "https://www.amazon.co.jp/dp/B0973DKFCD?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-29T00:36:35.232Z",
-          "wordCount": 1438,
-          "title": "［音楽］Elements Tour Box 2021"
         }
       ]
     },
@@ -799,15 +799,6 @@
           "publishedOn": "2021-09-30T00:41:29.705Z",
           "wordCount": 686,
           "title": "［音楽］僕のスピな☆ムン太郎 (完全生産限定盤) (特典なし)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09FBTW329?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-10-27、予約可",
-          "link": "https://www.amazon.co.jp/dp/B09FBTW329?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-09-29T00:36:34.977Z",
-          "wordCount": 749,
-          "title": "［和書］アコースティック・ギター・マガジン (ACOUSTIC GUITAR MAGAZINE) 2021年12月号 Autumn ISSUE Vol.90 (表紙:川崎鷹也/付録小冊子付き)"
         }
       ]
     }
