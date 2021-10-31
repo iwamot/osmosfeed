@@ -148,6 +148,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B08WWHBF1J?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-15",
+          "link": "https://www.amazon.co.jp/dp/B08WWHBF1J?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-31T00:39:22.228Z",
+          "wordCount": 820,
+          "title": "［和書］New Relic実践入門 監視からオブザーバビリティへの変革[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4344934210?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-07-30",
@@ -585,6 +594,33 @@
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B08YPZY9DX?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-23",
+          "link": "https://www.amazon.co.jp/dp/B08YPZY9DX?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-31T00:39:22.861Z",
+          "wordCount": 2860,
+          "title": "［音楽］McCartney III Imagined [Standard Vinyl] [12 inch Analog]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-07-21",
+          "link": "https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-31T00:39:22.643Z",
+          "wordCount": 708,
+          "title": "［音楽］僕のスピな☆ムン太郎 (完全生産限定盤) (特典なし)"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09KNPCSRY?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-11-04、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09KNPCSRY?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-10-31T00:39:22.438Z",
+          "wordCount": 812,
+          "title": "［和書］モーニング 2021年49号 [2021年11月4日発売] [雑誌][Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09FBTW329?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-10-27",
@@ -790,15 +826,6 @@
           "publishedOn": "2021-10-05T00:38:19.312Z",
           "wordCount": 824,
           "title": "［和書］モーニング 2021年45号 [2021年10月7日発売] [雑誌][Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09DYDWBHD?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-09-02",
-          "link": "https://www.amazon.co.jp/dp/B09DYDWBHD?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-10-01T00:40:37.967Z",
-          "wordCount": 1077,
-          "title": "［和書］モーニング 2021年40号 [2021年9月2日発売] [雑誌][Kindle版]"
         }
       ]
     }

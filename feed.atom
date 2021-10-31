@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-10-30T00:36:35.094Z</updated>
+    <updated>2021-10-31T00:39:22.886Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［音楽］McCartney III Imagined [Standard Vinyl] [12 inch Analog]]]></title>
+        <id>https://www.amazon.co.jp/dp/B08YPZY9DX?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B08YPZY9DX?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-31T00:39:22.861Z</updated>
+        <summary type="html"><![CDATA[2021-07-23]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［音楽］僕のスピな☆ムン太郎 (完全生産限定盤) (特典なし)]]></title>
+        <id>https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B09553FKBK?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-31T00:39:22.643Z</updated>
+        <summary type="html"><![CDATA[2021-07-21]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］モーニング 2021年49号 [2021年11月4日発売] [雑誌][Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B09KNPCSRY?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B09KNPCSRY?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-31T00:39:22.438Z</updated>
+        <summary type="html"><![CDATA[2021-11-04、予約可]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［和書］New Relic実践入門 監視からオブザーバビリティへの変革[Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B08WWHBF1J?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B08WWHBF1J?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-10-31T00:39:22.228Z</updated>
+        <summary type="html"><![CDATA[2021-09-15]]></summary>
+        <author>
+            <name>「インフラエンジニア」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［和書］アコースティック・ギター・マガジン (ACOUSTIC GUITAR MAGAZINE) 2021年12月号 Autumn ISSUE Vol.90 (表紙:川崎鷹也/付録小冊子付き)]]></title>
         <id>https://www.amazon.co.jp/dp/B09FBTW329?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -854,16 +894,6 @@
         <summary type="html"><![CDATA[2013-06-19]]></summary>
         <author>
             <name>「"King Crimson"」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［和書］モーニング 2021年40号 [2021年9月2日発売] [雑誌][Kindle版]]]></title>
-        <id>https://www.amazon.co.jp/dp/B09DYDWBHD?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B09DYDWBHD?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-10-01T00:40:37.967Z</updated>
-        <summary type="html"><![CDATA[2021-09-02]]></summary>
-        <author>
-            <name>「山下達郎」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
