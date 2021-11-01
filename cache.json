@@ -576,15 +576,6 @@
           "publishedOn": "2021-10-05T00:38:19.697Z",
           "wordCount": 1775,
           "title": "［DVD］ディシプリン~40周年記念エディション DVDオーディオ+K2HD HQCD"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B00CICW6B4?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2013-06-19",
-          "link": "https://www.amazon.co.jp/dp/B00CICW6B4?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-10-02T00:37:22.506Z",
-          "wordCount": 2001,
-          "title": "［DVD］暗黒の世界~40周年記念エディション DVDオーディオ+K2HD HQCD"
         }
       ]
     },
@@ -593,6 +584,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09DYDWBHD?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-09-02",
+          "link": "https://www.amazon.co.jp/dp/B09DYDWBHD?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-11-01T00:39:41.651Z",
+          "wordCount": 1091,
+          "title": "［和書］モーニング 2021年40号 [2021年9月2日発売] [雑誌][Kindle版]"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B08YPZY9DX?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,

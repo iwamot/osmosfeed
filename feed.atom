@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-10-31T00:39:22.886Z</updated>
+    <updated>2021-11-01T00:39:41.695Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［和書］モーニング 2021年40号 [2021年9月2日発売] [雑誌][Kindle版]]]></title>
+        <id>https://www.amazon.co.jp/dp/B09DYDWBHD?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B09DYDWBHD?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-11-01T00:39:41.651Z</updated>
+        <summary type="html"><![CDATA[2021-09-02]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［音楽］McCartney III Imagined [Standard Vinyl] [12 inch Analog]]]></title>
         <id>https://www.amazon.co.jp/dp/B08YPZY9DX?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
@@ -884,16 +894,6 @@
         <summary type="html"><![CDATA[2021-10-08、予約可]]></summary>
         <author>
             <name>「AWS」＠リリースチェッカー</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［DVD］暗黒の世界~40周年記念エディション DVDオーディオ+K2HD HQCD]]></title>
-        <id>https://www.amazon.co.jp/dp/B00CICW6B4?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
-        <link href="https://www.amazon.co.jp/dp/B00CICW6B4?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
-        <updated>2021-10-02T00:37:22.506Z</updated>
-        <summary type="html"><![CDATA[2013-06-19]]></summary>
-        <author>
-            <name>「"King Crimson"」＠リリースチェッカー</name>
         </author>
     </entry>
 </feed>
