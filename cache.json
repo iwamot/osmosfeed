@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/4295012750?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-19",
+          "link": "https://www.amazon.co.jp/dp/4295012750?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-11-02T00:41:05.323Z",
+          "wordCount": 635,
+          "title": "［和書］Kubernetes CI/CDパイプラインの実装 (impress top gear)"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B09GTBZHGK?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-10-18",
@@ -130,15 +139,6 @@
           "publishedOn": "2021-10-09T00:36:43.434Z",
           "wordCount": 584,
           "title": "［和書］基礎から学ぶ Terraform"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/4865943080?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-10-08、予約可",
-          "link": "https://www.amazon.co.jp/dp/4865943080?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-10-03T00:41:45.410Z",
-          "wordCount": 614,
-          "title": "［和書］合格対策Microsoft認定試験AZ-104:Microsoft Azure Administratorテキスト&演習問題"
         }
       ]
     },
@@ -584,6 +584,15 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/4046810726?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-12-23、予約可",
+          "link": "https://www.amazon.co.jp/dp/4046810726?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-11-02T00:41:05.105Z",
+          "wordCount": 510,
+          "title": "［和書］【Amazon.co.jp 限定】EIZIN SUZUKI VACATION 鈴木英人 大人の画集 ぬりえ(特典:未収録ぬりえイラスト データ配信)"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B09DYDWBHD?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
