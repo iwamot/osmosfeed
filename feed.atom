@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iwamot.github.io/osmosfeed/index.html</id>
     <title>iwamot/osmosfeed</title>
-    <updated>2021-11-02T00:41:06.821Z</updated>
+    <updated>2021-11-03T00:37:35.896Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://iwamot.github.io/osmosfeed/index.html"/>
     <link rel="self" href="https://iwamot.github.io/osmosfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[［音楽］続・40周年記念アルバム 「SEIKO MATSUDA 2021」(初回数量限定盤)(SHM-CD)(DVD付)(特典:なし)]]></title>
+        <id>https://www.amazon.co.jp/dp/B097SXCK45?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
+        <link href="https://www.amazon.co.jp/dp/B097SXCK45?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1"/>
+        <updated>2021-11-03T00:37:35.871Z</updated>
+        <summary type="html"><![CDATA[2021-10-20]]></summary>
+        <author>
+            <name>「山下達郎」＠リリースチェッカー</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［和書］Kubernetes CI/CDパイプラインの実装 (impress top gear)]]></title>
         <id>https://www.amazon.co.jp/dp/4295012750?tag=chintara-22&amp;linkCode=osi&amp;th=1&amp;psc=1</id>
