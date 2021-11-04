@@ -6,6 +6,15 @@
       "siteUrl": "https://a.noare.net/?keyword=AWS&omit=fmdgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B09JNPWW37?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-19",
+          "link": "https://www.amazon.co.jp/dp/B09JNPWW37?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-11-04T00:38:00.699Z",
+          "wordCount": 616,
+          "title": "［和書］プログラマーなら知っておきたい40のアルゴリズム 定番・最新系をPythonで実践！ impress top gearシリーズ[Kindle版]"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/4295012750?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-10-19",
@@ -567,15 +576,6 @@
           "publishedOn": "2021-10-09T00:36:43.678Z",
           "wordCount": 672,
           "title": "［和書］レコード・コレクターズ 2018年 2月号"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B00CICW5UQ?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2013-06-19",
-          "link": "https://www.amazon.co.jp/dp/B00CICW5UQ?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-10-05T00:38:19.697Z",
-          "wordCount": 1775,
-          "title": "［DVD］ディシプリン~40周年記念エディション DVDオーディオ+K2HD HQCD"
         }
       ]
     },
@@ -826,24 +826,6 @@
           "publishedOn": "2021-10-09T00:36:45.556Z",
           "wordCount": 622,
           "title": "［音楽］【Amazon.co.jp限定】ナイアガラトライアングルVol.1 30th Anniversary Edition (メガジャケ付)"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09BNFJQJB?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-08-05",
-          "link": "https://www.amazon.co.jp/dp/B09BNFJQJB?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-10-05T00:38:20.862Z",
-          "wordCount": 1071,
-          "title": "［和書］モーニング 2021年36・37号 [2021年8月5日発売] [雑誌][Kindle版]"
-        },
-        {
-          "id": "https://www.amazon.co.jp/dp/B09HQN8JJR?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "author": null,
-          "description": "2021-10-07、予約可",
-          "link": "https://www.amazon.co.jp/dp/B09HQN8JJR?tag=chintara-22&linkCode=osi&th=1&psc=1",
-          "publishedOn": "2021-10-05T00:38:19.312Z",
-          "wordCount": 824,
-          "title": "［和書］モーニング 2021年45号 [2021年10月7日発売] [雑誌][Kindle版]"
         }
       ]
     }
