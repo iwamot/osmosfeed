@@ -263,6 +263,15 @@
       "siteUrl": "https://a.noare.net/?keyword=%22King+Crimson%22&omit=fgs",
       "articles": [
         {
+          "id": "https://www.amazon.co.jp/dp/B00CICW6FK?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2013-06-19",
+          "link": "https://www.amazon.co.jp/dp/B00CICW6FK?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-11-05T00:37:31.869Z",
+          "wordCount": 1803,
+          "title": "［DVD］アイランズ~40周年記念エディション DVDオーディオ+K2HD HQCD"
+        },
+        {
           "id": "https://www.amazon.co.jp/dp/B099WYMX9X?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
           "description": "2021-09-22",
@@ -584,6 +593,24 @@
       "feedUrl": "https://a.noare.net/rss?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "siteUrl": "https://a.noare.net/?keyword=%E5%B1%B1%E4%B8%8B%E9%81%94%E9%83%8E&omit=fdgs",
       "articles": [
+        {
+          "id": "https://www.amazon.co.jp/dp/B09HQN8JJR?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-10-07",
+          "link": "https://www.amazon.co.jp/dp/B09HQN8JJR?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-11-05T00:37:33.012Z",
+          "wordCount": 1032,
+          "title": "［和書］モーニング 2021年45号 [2021年10月7日発売] [雑誌][Kindle版]"
+        },
+        {
+          "id": "https://www.amazon.co.jp/dp/B09JP16LM6?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "author": null,
+          "description": "2021-12-15、予約可",
+          "link": "https://www.amazon.co.jp/dp/B09JP16LM6?tag=chintara-22&linkCode=osi&th=1&psc=1",
+          "publishedOn": "2021-11-05T00:37:31.442Z",
+          "wordCount": 773,
+          "title": "［音楽］クリスマス・イブ (2021 Version)"
+        },
         {
           "id": "https://www.amazon.co.jp/dp/B097SXCK45?tag=chintara-22&linkCode=osi&th=1&psc=1",
           "author": null,
